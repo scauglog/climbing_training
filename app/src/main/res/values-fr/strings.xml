@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entraînement Escalade</string>
+
+    <!-- Home -->
+    <string name="home_title">Entraînement Escalade</string>
+    <string name="home_settings_content_description">Paramètres</string>
+
+    <!-- Tool: Flying Loto -->
+    <string name="tool_flying_loto_name">Flying Loto</string>
+    <string name="tool_flying_loto_description">Jeu de tirage au sort pour groupes d\'escalade</string>
+
+    <!-- Flying Loto – Player entry -->
+    <string name="flying_loto_title">Flying Loto</string>
+    <string name="flying_loto_player_name_label">Nom du joueur</string>
+    <string name="flying_loto_add_player_content_description">Ajouter un joueur</string>
+    <string name="flying_loto_player_count">%1$d/30 joueurs</string>
+    <string name="flying_loto_remove_player_content_description">Supprimer %1$s</string>
+    <string name="flying_loto_validate">Valider</string>
+
+    <!-- Flying Loto – Configuration -->
+    <string name="flying_loto_assignments_title">Attribution des numéros</string>
+    <string name="flying_loto_start_game">Démarrer le jeu</string>
+
+    <!-- Flying Loto – Game -->
+    <string name="flying_loto_next_number">Numéro suivant</string>
+    <string name="flying_loto_stop">Arrêter</string>
+    <string name="flying_loto_no_match">—</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_language_label">Langue</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_french">Français</string>
+</resources>
