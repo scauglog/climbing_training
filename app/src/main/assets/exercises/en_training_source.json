@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ben_moon_session",
+    "name": "Ben Moon Session",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Start in an easy warm-up route. If you send it cleanly, go up one grade for the next route. If you fall, go down one grade. Over the session you rise to your max level then inevitably descend as fatigue sets in.\n\nAim for at least 8 routes, ideally around 15. Keep rest between routes as short as possible."
+  },
+  {
+    "id": "verdon_session",
+    "name": "Verdon Session",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "A playful volume session based on multi-pitch outdoor routes. Each rope team picks a fictional multi-pitch route (e.g. 150m, 6 pitches) and climbs gym routes at the specified grade in order.\n\nEvery climber must top each pitch, even with rests. Team-based exercise that sparks imagination and builds rope-team communication."
+  },
+  {
+    "id": "climb_down_climb",
+    "name": "Climb-Down-Climb (MDM)",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Climb a route, down-climb it on rainbow holds (any colour), then climb it again. This gives roughly 100 moves in a single go on a tall wall.\n\nHarder variant: down-climb in the same route colour instead of rainbow — shifts the focus toward long endurance."
+  },
+  {
+    "id": "climb_in_pairs",
+    "name": "Climb in Pairs",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Two climbers share one rope simultaneously. Climber A tops a moderate route (max-3). The belayer locks off the Grigri, then starts climbing while Climber A down-climbs on rainbow holds.\n\nCreates friendly rivalry and doubles wall time. Safety rule: the ascending climber cannot go faster than the descending one."
+  },
+  {
+    "id": "the_pyramid",
+    "name": "The Pyramid",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Vary the number of routes and their intensity in a pyramid shape: 3× max-3, 2× max-2, 1× max-1, then back down. The full session takes about 2.5 hours for ~360 moves.\n\nExtended variant: 4× max-4 / 3× max-3 / 2× max-2 / 1× max-1 and back, with 12–15 min rest between levels (~630 moves)."
+  },
+  {
+    "id": "endless_ascent",
+    "name": "Endless Ascent",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Climb up 10 moves, down-climb 5, climb up 10, down-climb 5, and so on until the top. Adjust difficulty: a harder route targets long endurance, an easier route targets volume.\n\nMentally demanding because it feels never-ending — also a great test of determination."
+  },
+  {
+    "id": "two_two_two",
+    "name": "2-2-2",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Designate a starting jug. The first climber adds 2 moves of their choice. The next climber repeats those moves then adds 2 more. Continue until someone falls — they are eliminated.\n\nA game for 2–4 climbers that trains endurance and memorisation. Vary move intensity to target short or long resistance."
+  },
+  {
+    "id": "max_hang_suspensions",
+    "name": "Suspensions",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Hang on a hold as long as possible, feet off. Vary grips: crimps, slopers, pinches, half-crimp, open-hand.\n\n3–5s hold = max strength. 5–15s = short resistance. 20s+ = long endurance. Work with a partner of similar level for motivation. Try to beat your own record each set."
+  },
+  {
+    "id": "gullich_board_circuit",
+    "name": "Güllich Board Circuit",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Start on the lowest rung of the campus board. The coach points a stick at a position (rung number + left/right/centre); the climber moves one hand there. The coach points again; the climber moves the other hand.\n\nAdjust intensity with large or small rungs, one or two feet allowed. 10–20 moves for short resistance, 30–50 for long."
+  },
+  {
+    "id": "stick_traverse",
+    "name": "Stick Traverse",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "One climber executes moves directed by a partner using a stick. The partner points to handholds (specifying left or right hand); the climber positions themselves to reach each one.\n\nEncourage repositioning after every move to find a rest position. Switch roles after a fall. Excellent for direct reading and resistance."
+  },
+  {
+    "id": "route_series",
+    "name": "Route Series",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Climb a route at max-2 two or three times back-to-back without resting on the ground between attempts. As soon as you lower off, start again immediately.\n\nAim to fall near the end of the second lap or during the third. Favour slow, controlled climbing — stay on holds and manage effort deliberately."
+  },
+  {
+    "id": "resistance_circuits",
+    "name": "Resistance Circuits (RC/RL)",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance", "endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "The coach sets a hand-move circuit (feet free). Short Resistance (RC): 15–20 moves at 90% intensity — fall because you simply cannot do one more move. Long Resistance (RL): 30–50 moves at 75–85% — fingers open involuntarily.\n\nVariant: RC circuit in a loop with a jug at start, do 3 laps; aim to fall in the second half of lap 3."
+  },
+  {
+    "id": "clipping_circuit",
+    "name": "Clipping Circuit",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "The coach sets a traverse circuit with pre-placed quickdraws. The climber wears a short rope (3–5m) on the harness and clips every draw along the way.\n\nFocus on finding a rest position before each clip and clean clipping technique. Variant: the climber places the draws themselves."
+  },
+  {
+    "id": "clipping_route",
+    "name": "The Clipping Route",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Equip yourself with a short rope (3–5m) and about ten quickdraws. Climb a route on top-rope but 'mock lead': at every bolt, place a draw and clip your short rope.\n\nTrains lead-climbing movements on routes not set for leading. In coaching: technique and rest positions. In training: long endurance near max level."
+  },
+  {
+    "id": "recovery_on_jugs",
+    "name": "Recovery on Jugs",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Climb a route at max or max-1. Back on the ground, go straight to a pre-spotted jug and shake out until recovered. When ready, jump back on the route.\n\nEmphasise rest positions and relaxation. The tactical element is key: leave too early (not recovered) or too late (fatigue wins) and you fail."
+  },
+  {
+    "id": "slow_climbing",
+    "name": "Slow Climbing",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "Climb as slowly as possible. At every hold, find the rest position and relax the resting arm. Focus on foot precision, weight transfers, balance, and breathing.\n\nVariant: hold every position for 3 seconds, or shake out each arm 5 seconds in a route at max-3 or max-4."
+  },
+  {
+    "id": "eight_minutes_pump",
+    "name": "8 Minutes to Pump",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "You must spend at least 8 minutes on a route (max-3 to max-1) without reaching the top early and without falling. Avoid complete rests — keep moving or holding positions.\n\nVariant: allow down-climbing to keep blood flowing. Or self-improvised traverse in overhang for 8–12 minutes without touching the ground."
+  },
+  {
+    "id": "boulder_circuits",
+    "name": "Boulder Circuits",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance", "endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Select 3–5 boulders at max-4 or max-3. Climb them back-to-back without rest, then rest 30 seconds. Repeat for 3 sets.\n\nFor long endurance: lower intensity, shorter rests, longer sets. For short resistance: raise intensity, shorter sets, slightly longer rests between sets."
+  },
+  {
+    "id": "blindfold_climbing",
+    "name": "Blindfold Climbing",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["top_rope"],
+    "level": "advanced",
+    "techniqueFocus": ["body_movement"],
+    "description": "Pick a familiar route of moderate difficulty. Read it fully and memorise every move. Then climb it blindfolded, trying to go as far as possible without grabbing holds of another colour.\n\nExtremely physical because every move must be static (feeling for holds). Excellent for memorisation training."
+  },
+  {
+    "id": "touch_hold_commit",
+    "name": "Touch It, Hold It",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Climb a route at max-1 or max-2 on-sight. If your hand touches a hold, you must commit to it and make your next move with the other hand from that position.\n\nForces you to anticipate moves and live with mistakes. Analyse errors after each attempt. Also builds long endurance through forced slow climbing."
+  },
+  {
+    "id": "above_max_route",
+    "name": "Above-Max Route",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choose a route at max+1 or max+2 and try to get as high as possible in one go. Ideally you fall in the second third of the route.\n\nAllow extra footholds if needed. Variant: half a grade harder with rainbow feet. Very motivating — you discover you can push beyond your current level."
+  },
+  {
+    "id": "gullich_board_training",
+    "name": "Güllich Board Training",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Start with both hands on the lowest rung, then ladder up alternating left and right. At the top, reverse back down.\n\nVariants: small/large rungs, one or two feet, double-dynos, lock-offs, crosses. Max strength = 1–3 supra-max moves. Short resistance = 10–20 moves. Long resistance = 30–40 moves. For experienced, well-warmed-up climbers only."
+  },
+  {
+    "id": "pull_up_and_climb",
+    "name": "Pull-Up and Climb",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Tie in to a max-1 route. Do max pull-ups on two big jugs at the start. Recover on those same jugs by shaking out, then climb the route managing your effort.\n\nVariant: instead of recovering on jugs, recover by climbing an easy route or rainbow, then jump straight into the max-1 route."
+  },
+  {
+    "id": "rest_in_any_position",
+    "name": "Rest in Any Position",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "On a route at max-2 or max-1, make 5 moves then rest for 30 seconds on whatever holds you land on. Find the best rest position, grip as lightly as possible, breathe.\n\nRepeat — 5 moves, rest, 5 moves — all the way to the top. Requires solid understanding of rest positions and relaxation."
+  },
+  {
+    "id": "varied_intensity_circuits",
+    "name": "Varied Intensity Circuits",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Build a circuit with 8–12 intense moves, a jug rest, then a longer section (20–30 moves) at lower intensity.\n\nVariants: two intense sections separated by rests, or three sections of decreasing intensity. The climber must manage effort correctly between hard sections and recovery."
+  },
+  {
+    "id": "invent_your_boulders",
+    "name": "Invent Your Boulders",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance", "pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Each climber invents a 4–8 move boulder in the zone designated by the coach. The boulders must be imagined from the ground without testing moves. Everyone then tries each other's problems.\n\nCreative game: draw cards with location, move count, and constraints (free feet, underclings, tiny footholds…). Great for route reading and projecting yourself on the wall."
+  },
+  {
+    "id": "minute_contract",
+    "name": "Minute Contract",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Start a stopwatch and perform an exercise (pull-ups, hangs…). Repeat at the start of every minute. If the exercise takes 15 seconds, you get 45 seconds rest. Continue for 10 minutes.\n\nVary: 1–3 pull-ups, hangs of different durations, lock-offs, core holds. Execution quality must remain correct through the final set."
+  }
+]

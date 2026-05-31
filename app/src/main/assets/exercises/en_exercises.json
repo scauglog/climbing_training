@@ -1,0 +1,122 @@
+[
+  {
+    "id": "four_by_four_bouldering",
+    "name": "4x4 Bouldering",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choose 4 boulder problems that each take roughly 10–15 moves to complete. Climb all 4 back-to-back without rest, then rest for 3–4 minutes. Repeat for 4 sets total.\n\nThe goal is to maintain movement quality even as your forearms pump out. Focus on efficient body positions rather than pulling harder. Pick problems slightly below your redpoint level so you can complete them while fatigued."
+  },
+  {
+    "id": "silent_feet",
+    "name": "Silent Feet",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Climb a route or boulder problem trying to make absolutely no noise when your feet touch the holds. If your shoe scrapes or taps loudly, you are dabbing your feet on without precision.\n\nThe drill trains you to place your feet deliberately and look at every foothold before stepping on it. Works on any angle and at any level. Start on easier terrain than your limit."
+  },
+  {
+    "id": "straight_arm_traversing",
+    "name": "Straight-Arm Traversing",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Find a long boulder traverse near the ground. Climb across it keeping your arms as straight as possible at all times — never bend your elbow beyond 150°.\n\nThis forces you to use your skeleton rather than your muscles to hang on the wall, teaching proper body positioning and weight transfer. Traverse back and forth for 5–10 minutes with minimal rest."
+  },
+  {
+    "id": "dead_hang_max",
+    "name": "Max Hang",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder", "lead"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Using a fingerboard (hangboard), hang on a chosen edge size (typically 18–20mm) with maximum added weight for exactly 10 seconds. Rest 3 minutes between sets. Perform 3–5 sets.\n\nUse the two-hand, half-crimp or open-hand grip position. The load should be heavy enough that 10 seconds is near your limit. Track your added weight over time as the primary performance metric.\n\nRequires proper warm-up and is not suitable for beginners or anyone with finger injuries."
+  },
+  {
+    "id": "footwork_ladder",
+    "name": "Footwork Ladder",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Set up or find a sequence of small footholds in a ladder pattern on a slab or vertical wall. Climb up using only the designated foot holds, focusing on placing the tip of your shoe precisely on each hold.\n\nGreat for warming up and training foot confidence. Children can do this as a game, trying to climb faster each time. Repeat 5–10 times."
+  },
+  {
+    "id": "one_two_three_drill",
+    "name": "1-2-3 Drill",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "Before each move, pause and count out loud: 1 - look at the next foothold, 2 - place your foot, 3 - stand up through your legs and reach for the next handhold.\n\nThis slows you down and builds the habit of looking at feet before stepping. It works on any terrain and is especially effective for beginners who tend to rush. Climb 5–8 routes or problems with this method."
+  },
+  {
+    "id": "campus_board_laddering",
+    "name": "Campus Board Laddering",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder", "lead"],
+    "level": "expert",
+    "techniqueFocus": ["handwork"],
+    "description": "On a campus board (no feet), ladder up and down a sequence of rungs. Start at rung 1, move right hand to rung 2, left hand to rung 3, and continue until you reach the top, then reverse.\n\nThis is a high-intensity contact-strength exercise. Warm up thoroughly and do not perform if you have any finger or elbow discomfort. Beginners and intermediates should avoid campus boards. 3–5 sets with 3–5 minutes rest between sets."
+  },
+  {
+    "id": "ar_no_hands",
+    "name": "No-Hands Slab Balance",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "On a low-angle slab (less than vertical), find sequences you can climb without using your hands at all. Keep arms out to the side for balance only.\n\nThis forces total reliance on foot technique and hip positioning. Children enjoy this as a challenge. Adults should push onto progressively steeper terrain. Perform on routes you can safely down-climb near the ground."
+  },
+  {
+    "id": "lock_off_holds",
+    "name": "Lock-Off and Touch",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Pull up on a hold and lock off at 90°, 120°, and full lock positions. At each position, take one hand off the wall and touch a target hold above you, then return it to the wall before moving.\n\nBuilds the positional strength needed to reach long moves on steep terrain. Perform 5 touches at each angle, both left and right arm. Rest 2 minutes between sets. 3 sets per arm."
+  },
+  {
+    "id": "route_reading_on_sight",
+    "name": "On-Sight Route Reading",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choose a route you have never seen before. Spend 3–5 minutes on the ground studying it top to bottom: identify all rests, difficult sequences, clipping positions (for lead), and key footholds.\n\nThen climb it attempting to execute the plan you made on the ground. After the climb, analyse what matched your plan and what surprised you. Builds route reading skills critical for outdoor climbing and competitions."
+  },
+  {
+    "id": "climbing_with_eyes_closed",
+    "name": "Eyes-Closed Climbing",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Climb a familiar boulder problem or short route keeping your eyes closed the entire time. A spotter must be present and only low problems near the ground should be used for bouldering.\n\nThis drill forces you to rely on proprioception (body awareness) and feel the holds rather than seeing them. It reveals how much you depend on vision and builds sensitivity in your feet and hands. Repeat 3–5 times."
+  },
+  {
+    "id": "endurance_laps",
+    "name": "Endurance Laps",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Select a route 2–4 grades below your redpoint level. Climb it repeatedly for 20–40 minutes total, resting only at the top long enough to lower off and start again (approximately 1–2 minutes).\n\nThe goal is time on the wall. Focus on relaxed, efficient movement rather than speed. Keep your forearms as relaxed as possible between moves. Track total laps per session and aim to increase over weeks."
+  }
+]

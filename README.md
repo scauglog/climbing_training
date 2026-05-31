@@ -48,12 +48,81 @@ Unit tests run on the JVM via Robolectric — no emulator required:
 
 HTML reports are generated at `app/build/reports/tests/testDebugUnitTest/index.html`.
 
+UI instrumentation tests run on an Android emulator:
+
+```bash
+# Run all connected instrumentation tests
+./gradlew connectedDebugAndroidTest
+
+# Run only the Flying Loto end-to-end instrumentation test
+./gradlew :app:connectedDebugAndroidTest \
+    -Pandroid.testInstrumentationRunnerArguments.class=com.alma.climbingtraining.ui.flyingloto.FlyingLotoFlowInstrumentationTest
+```
+
+Instrumentation reports are generated under:
+- `app/build/reports/androidTests/connected/`
+- `app/build/outputs/androidTest-results/connected/`
+
+### Running UI tests in CI only when needed
+
+This repository has a dedicated workflow for emulator-based UI tests:
+- `.github/workflows/ui-tests.yml`
+
+To trigger it for a pull request, add the label configured in that workflow condition:
+- currently: `test:UI`
+
+If you prefer the label name `UI:test`, update the `if:` condition in `.github/workflows/ui-tests.yml` to match.
+
 **Test coverage**
 
 | Class | Tests |
 |-------|-------|
 | `FlyingLotoViewModel` | 22 unit tests — player management, number assignment, game flow, persistence |
 | `PlayerPreferences` | 11 Robolectric tests — JSON round-trip, ordering, special characters, edge cases |
+
+### Emulator Testing Without Android Studio
+
+You can set up and run an Android 15 emulator entirely from the command line.
+
+1. Ensure JDK 17 is installed.
+2. From the repository root, run:
+
+```bash
+# Print shell env exports (ANDROID_SDK_ROOT + PATH)
+./scripts/android-emulator-cli.sh env
+
+# Install Android command-line tools, SDK packages, and create AVD (Android 15)
+./scripts/android-emulator-cli.sh setup
+
+# Start the emulator and wait until it is fully booted
+./scripts/android-emulator-cli.sh start
+
+# Build and install the debug app on the running emulator
+./scripts/android-emulator-cli.sh install-app
+
+# Optional: run connected Android tests on emulator
+./scripts/android-emulator-cli.sh connected-tests
+```
+
+Default AVD name is `Pixel_Android15` and default API level is `35`.
+
+You can override defaults with env vars, for example:
+
+```bash
+ANDROID_API_LEVEL=35 AVD_NAME=MyAndroid15 ./scripts/android-emulator-cli.sh setup
+```
+
+Script location: `scripts/android-emulator-cli.sh`
+
+---
+
+## Contributor Guide
+
+For onboarding and contribution standards, see the repository skill:
+
+- [climbing-training-repository skill](.github/skills/climbing-training-repository/SKILL.md)
+
+It documents architecture, workflow, software craftsmanship principles, and mandatory testing expectations (tests for each function/behavior change).
 
 ---
 

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "wrist_rotation",
+    "name": "Wrist Rotation",
+    "description": "Extend arms forward, make fists and rotate both wrists in full circles — inward then outward.",
+    "bodyPart": "wrists"
+  },
+  {
+    "id": "wrist_flexion",
+    "name": "Wrist Flexion & Extension",
+    "description": "Place palms together in front of your chest, then reverse (backs of hands together) and push gently.",
+    "bodyPart": "wrists"
+  },
+  {
+    "id": "wrist_figure_eight",
+    "name": "Wrist Figure-Eight",
+    "description": "Interlace fingers and draw continuous figure-eight patterns with both hands. Keep wrists loose.",
+    "bodyPart": "wrists"
+  },
+  {
+    "id": "arm_circle",
+    "name": "Arm Circle",
+    "description": "Extend arms to the side. Draw large forward circles for 10 s then reverse for 10 s.",
+    "bodyPart": "shoulders"
+  },
+  {
+    "id": "shoulder_roll",
+    "name": "Shoulder Roll",
+    "description": "Roll both shoulders forward in large circles for 10 s, then backward for 10 s.",
+    "bodyPart": "shoulders"
+  },
+  {
+    "id": "cross_body_arm_swing",
+    "name": "Cross-Body Arm Swing",
+    "description": "Swing both arms across your chest simultaneously, then open them wide. Increase range each rep.",
+    "bodyPart": "shoulders"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "description": "Hold a forearm plank position. Keep your core tight and back flat.",
+    "bodyPart": "core"
+  },
+  {
+    "id": "mountain_climber",
+    "name": "Mountain Climber",
+    "description": "Start in a high plank. Drive alternating knees toward your chest rapidly.",
+    "bodyPart": "core"
+  },
+  {
+    "id": "dead_bug",
+    "name": "Dead Bug",
+    "description": "Lie on your back, arms up and knees at 90°. Slowly lower opposite arm and leg toward the floor, then return.",
+    "bodyPart": "core"
+  },
+  {
+    "id": "squat",
+    "name": "Squat",
+    "description": "Feet shoulder-width apart, squat until thighs are parallel to the floor, drive through heels to stand.",
+    "bodyPart": "legs"
+  },
+  {
+    "id": "lunge",
+    "name": "Lunge",
+    "description": "Step forward with one leg, lower your back knee toward the floor, return to standing. Alternate legs.",
+    "bodyPart": "legs"
+  },
+  {
+    "id": "lateral_shuffle",
+    "name": "Lateral Shuffle",
+    "description": "Wide stance, stay low. Shuffle 3 steps left then 3 steps right in an athletic position.",
+    "bodyPart": "legs"
+  },
+  {
+    "id": "hip_circle",
+    "name": "Hip Circle",
+    "description": "Feet shoulder-width apart, hands on hips. Draw large circles with your hips, alternating directions.",
+    "bodyPart": "hips"
+  },
+  {
+    "id": "hip_flexor_stretch",
+    "name": "Hip Flexor Stretch",
+    "description": "Step into a lunge, drop the back knee to the floor, and push hips forward gently. Hold 10 s each side.",
+    "bodyPart": "hips"
+  },
+  {
+    "id": "leg_swing",
+    "name": "Leg Swing",
+    "description": "Hold a wall for balance. Swing one leg forward and back in a controlled arc, then switch sides.",
+    "bodyPart": "hips"
+  },
+  {
+    "id": "cat_cow",
+    "name": "Cat-Cow",
+    "description": "On all fours, alternate between arching your back toward the ceiling (cat) and dropping your belly toward the floor (cow).",
+    "bodyPart": "back"
+  },
+  {
+    "id": "thoracic_rotation",
+    "name": "Thoracic Rotation",
+    "description": "Sit cross-legged, hands behind your head. Rotate your upper body left then right, keeping hips still.",
+    "bodyPart": "back"
+  },
+  {
+    "id": "standing_side_bend",
+    "name": "Standing Side Bend",
+    "description": "Feet hip-width apart, raise one arm overhead and bend to the opposite side. Hold 5 s, then switch.",
+    "bodyPart": "back"
+  },
+  {
+    "id": "jumping_jack",
+    "name": "Jumping Jack",
+    "description": "Start with feet together and arms at sides. Jump feet apart while raising arms overhead, then return.",
+    "bodyPart": "cardio"
+  },
+  {
+    "id": "high_knee",
+    "name": "High Knees",
+    "description": "Jog in place, driving knees as high as possible. Pump arms in opposition.",
+    "bodyPart": "cardio"
+  },
+  {
+    "id": "butt_kick",
+    "name": "Butt Kicks",
+    "description": "Jog in place, kicking your heels up to touch your glutes with each step. Keep a quick pace.",
+    "bodyPart": "cardio"
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "description": "From standing: squat down, jump feet back to plank, do a push-up, jump feet in, jump up with arms overhead.",
+    "bodyPart": "full_body"
+  },
+  {
+    "id": "bear_crawl",
+    "name": "Bear Crawl",
+    "description": "Start on all fours with knees hovering 2 cm off the floor. Crawl forward 3 steps then backward 3 steps.",
+    "bodyPart": "full_body"
+  },
+  {
+    "id": "inchworm",
+    "name": "Inchworm",
+    "description": "Stand and hinge at the hips to place hands on the floor. Walk hands out to a plank, then walk them back and stand.",
+    "bodyPart": "full_body"
+  }
+]

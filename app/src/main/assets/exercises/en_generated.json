@@ -1,0 +1,622 @@
+[
+  {
+    "id": "warm_up_traverses",
+    "name": "Warm-Up Traverses",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Traverse back and forth on a low wall for 5–10 minutes at a very easy level. Focus on smooth, continuous movement and getting blood flowing into your fingers and forearms.\n\nUse this to start every session. Do not push intensity — the goal is pure warm-up and body awareness."
+  },
+  {
+    "id": "joint_mobility_on_wall",
+    "name": "Joint Mobility on Wall",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Climb an easy route or traverse, pausing at each hold to rotate your hips, circle your shoulders, and flex your ankles. Move through a full range of motion at each stop.\n\nDevelops mobility awareness and warms up joints safely before harder climbing."
+  },
+  {
+    "id": "easy_down_climbing",
+    "name": "Easy Down-Climbing",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Climb an easy route to the top, then reverse every move back down. Place each foot as precisely on the way down as you did going up.\n\nBuilds proprioception, foot trust, and controlled movement. Also a great cool-down exercise at the end of a session."
+  },
+  {
+    "id": "progressive_warm_up",
+    "name": "Progressive Warm-Up Ladder",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Climb 3 routes or boulders of increasing difficulty: first at max-6, second at max-4, third at max-2. Rest 2 minutes between each. Do not attempt anything at or above your max until this ladder is complete.\n\nA structured warm-up that prepares tendons and muscles progressively."
+  },
+  {
+    "id": "cool_down_slab",
+    "name": "Cool-Down Slab Session",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "After your main session, spend 10 minutes climbing very easy slabs focusing exclusively on smooth breathing and gentle foot placements. No pulling hard.\n\nPromotes blood flow for recovery and reinforces good movement habits when fatigued."
+  },
+  {
+    "id": "toe_hook_practice",
+    "name": "Toe Hook Practice",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork"],
+    "description": "Find 5 boulder problems that require toe hooks. Climb each one focusing on maximum engagement of the top of your foot. Hold each toe hook for 3 seconds before progressing.\n\nBuilds the muscle memory and foot tension needed for roof climbing and steep overhangs."
+  },
+  {
+    "id": "heel_hook_drills",
+    "name": "Heel Hook Drills",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork"],
+    "description": "Select 5 problems with prominent heel hooks. On each, consciously pull your heel in and drive your hips toward the wall. Hold the heel-hook position for 3 seconds to feel the engagement.\n\nDevelops hamstring and glute activation critical for steep terrain efficiency."
+  },
+  {
+    "id": "smearing_slab",
+    "name": "Smearing Slab Challenge",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Climb a slab route using only smears — no defined footholds. Press the rubber of your shoe flat against the wall and trust friction.\n\nTeaches weight commitment over feet and builds confidence in friction. Start on low-angle terrain and progress to steeper slabs."
+  },
+  {
+    "id": "outside_edge_traverse",
+    "name": "Outside Edge Traverse",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork"],
+    "description": "Traverse a long section of wall using only the outside edge of your shoe on every foothold. This forces hip rotation and backstep positioning.\n\nDevelops the habit of turning hips into the wall rather than climbing square-on. Traverse for 3–5 minutes each direction."
+  },
+  {
+    "id": "flag_every_move",
+    "name": "Flag Every Move",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Climb a moderate route and flag (extend a free leg for balance) on every single move, even when it isn't strictly necessary. Alternate between inside flags and outside flags.\n\nBuilds automatic balance responses and teaches when flagging saves energy versus when it wastes it."
+  },
+  {
+    "id": "foot_swap_drill",
+    "name": "Foot Swap Drill",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "On a vertical wall with small footholds, practise swapping feet on the same hold without looking down. Hop-switch or roll from one toe to the other.\n\nDevelops precision and confidence in foot replacements — a fundamental skill for lead climbing and long traverses."
+  },
+  {
+    "id": "drop_knee_practice",
+    "name": "Drop Knee Practice",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Find 5 steep boulder moves where a drop knee (knee-bar or inside-flag with knee dropped) saves energy. Hold each position for 5 seconds to feel the relief it provides.\n\nA key technique for steep routes — trains hip flexibility and makes hard moves feel effortless."
+  },
+  {
+    "id": "high_step_challenge",
+    "name": "High-Step Challenge",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Climb a vertical or slightly overhanging route, deliberately choosing the highest possible foothold for each move. Step up through your legs rather than pulling with your arms.\n\nBuilds hip flexibility and teaches you to generate movement from the lower body."
+  },
+  {
+    "id": "open_hand_only",
+    "name": "Open-Hand Only",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Climb 5 routes or boulders using only an open-hand grip — no crimping allowed. If you catch yourself crimping, pause and re-grip.\n\nStrengthens the open-hand position and protects pulleys from over-crimping. Also builds finger endurance for long routes."
+  },
+  {
+    "id": "pinch_block_training",
+    "name": "Pinch Block Training",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Using a pinch block or wide pinch holds on the wall, perform 5 sets of 10-second max-effort pinches per hand. Rest 2 minutes between sets.\n\nBuilds thumb opposition strength critical for outdoor climbing on natural features. Track added weight over time."
+  },
+  {
+    "id": "sloper_circuit",
+    "name": "Sloper Circuit",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Set or find a circuit of 8–12 sloper holds. Traverse through them focusing on keeping your centre of gravity directly below each hold and pressing with an open palm.\n\nTrains body positioning under slopers — the key to holding them is position, not grip strength."
+  },
+  {
+    "id": "finger_rolls",
+    "name": "Finger Rolls on Hangboard",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Hang on a large hangboard edge with both hands. Slowly open your fingers from a full crimp to an open-hand position, then close back. Repeat 10 times per set, 3 sets.\n\nDevelops finger extensor/flexor coordination and blood flow through the forearms. Good active recovery exercise."
+  },
+  {
+    "id": "crimp_ladder",
+    "name": "Crimp Ladder",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "On a hangboard, hang for 7 seconds on progressively smaller edges: 20mm, 15mm, 12mm, 10mm. Rest 3 minutes between each edge size. Use half-crimp grip only.\n\nA structured max-strength protocol for finger tendons. Only for experienced climbers with no finger injuries."
+  },
+  {
+    "id": "hip_rotation_drill",
+    "name": "Hip Rotation Drill",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Climb a vertical wall and before each hand move, consciously rotate your hips so the same-side hip faces the wall. Feel how this extends your reach and reduces arm effort.\n\nThe single most impactful technique for beginners — transforms square-on climbing into efficient movement."
+  },
+  {
+    "id": "twist_lock_practice",
+    "name": "Twist Lock Practice",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "On a steep wall, practise the twist-lock: turn your body sideways, lock off on the lower arm, and reach with the upper arm. Hold the locked position for 2 seconds before grabbing the next hold.\n\nBuilds the core strength and coordination for efficient steep climbing."
+  },
+  {
+    "id": "dynamic_movement_drill",
+    "name": "Dynamic Movement Drill",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Find 5 boulder moves that require a dyno or deadpoint. Practise each one 5 times, focusing on generating momentum from your legs and catching at the apex of movement.\n\nDevelops timing, coordination, and explosive power. Land softly and reset between attempts."
+  },
+  {
+    "id": "quiet_hands",
+    "name": "Quiet Hands",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "handwork"],
+    "description": "Climb a route attempting to grab each hold in one smooth motion — no readjusting, no double-grabbing. If you need to readjust, that hold was grabbed poorly.\n\nTrains precise hand placement and eliminates wasted energy from fumbling. Pair with Silent Feet for maximum precision work."
+  },
+  {
+    "id": "momentum_traverse",
+    "name": "Momentum Traverse",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Find a long steep traverse with holds spaced far apart. Move through it using controlled momentum — never static, always flowing from one hold to the next.\n\nTeaches you to use swing and body tension rather than brute pull-up strength on overhanging terrain."
+  },
+  {
+    "id": "coordination_dyno_game",
+    "name": "Coordination Dyno Game",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Two climbers take turns setting a dyno: climber A chooses start holds and a target hold, climber B must stick it. Then B sets one for A. Gradually increase difficulty.\n\nA fun competitive game that builds explosive power and accuracy. Keep heights safe with good mats."
+  },
+  {
+    "id": "balance_board_warmup",
+    "name": "Balance Board Warm-Up",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Spend 5 minutes on a balance board or wobble cushion before climbing. Try single-leg stands, eyes closed, or gentle squats.\n\nActivates stabiliser muscles and proprioception. Translates directly to better balance on the wall."
+  },
+  {
+    "id": "lead_fall_practice",
+    "name": "Lead Fall Practice",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "On a lead route well below your max, practise taking falls at every clip. Start with falls just above the clip, then progress to falls at the next clip (bigger whippers).\n\nBuilds confidence in the rope system and removes the mental barrier of falling. Always with an experienced belayer."
+  },
+  {
+    "id": "clip_and_rest",
+    "name": "Clip and Rest Strategy",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Climb a lead route 2 grades below your limit. At every clip, deliberately find the best rest position, shake out for 10 seconds, then continue. Practice identifying rest stances on the fly.\n\nDevelops the tactical skill of knowing when and how to rest on lead — crucial for redpointing."
+  },
+  {
+    "id": "onsight_lead_session",
+    "name": "On-Sight Lead Session",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Climb 5 lead routes at max-2, all on-sight. No beta, no watching others. Read the route from the ground for 3 minutes, then go. Record how many you send first try.\n\nBuilds the composure and reading skills essential for outdoor sport climbing and competitions."
+  },
+  {
+    "id": "lead_endurance_links",
+    "name": "Lead Endurance Links",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Climb 3 lead routes back-to-back with only 2 minutes rest between each. Choose routes at max-3 to ensure you can complete all three without falling.\n\nSimulates the demands of multi-pitch sport climbing or competition finals where recovery time is limited."
+  },
+  {
+    "id": "mock_competition_lead",
+    "name": "Mock Competition Lead",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Set a timer for 6 minutes (competition format). Choose a route at or above your limit. Try to get as high as possible within the time. A partner judges your highest hold.\n\nReplicates competition pressure and time management. Do 2–3 rounds with 20-minute rest between."
+  },
+  {
+    "id": "clipping_speed_drill",
+    "name": "Clipping Speed Drill",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "On a route well below your limit, focus purely on clipping speed. Draw the rope and clip in one smooth motion. Time yourself on each clip and try to reduce your clipping time to under 2 seconds.\n\nFaster clips mean less time in a strenuous position. Practice both left-hand and right-hand clips."
+  },
+  {
+    "id": "power_endurance_boulders",
+    "name": "Power Endurance Boulders",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Choose 3 boulders at max-1. Climb each one 3 times with 1 minute rest between attempts and 5 minutes between problems. Every attempt should feel harder.\n\nTrains the ability to perform powerful moves while pumped — essential for crux sequences on hard routes."
+  },
+  {
+    "id": "limit_bouldering",
+    "name": "Limit Bouldering",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Work on 2–3 boulder problems at your absolute limit (max or max+1). Give each attempt full commitment with 5 minutes rest between burns. Limit the session to 45 minutes.\n\nPure strength and recruitment training. Quality over quantity — stop when moves start feeling worse rather than better."
+  },
+  {
+    "id": "board_climbing_volume",
+    "name": "Board Climbing Volume",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "On a standardised training board (Kilter, Moon, Tension), climb 20 problems 3–5 grades below your flash level. Move continuously with only chalk breaks between problems.\n\nBuilds movement literacy on steep terrain while accumulating volume without excessive strain."
+  },
+  {
+    "id": "explosive_pull_ups",
+    "name": "Explosive Pull-Ups",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Perform 5 sets of 3 pull-ups as explosively as possible — try to get your chest to the bar. Rest 3 minutes between sets. Use a slight kip if needed to maximise height.\n\nDevelops the explosive upper-body power needed for dynamic moves and campus-style movement."
+  },
+  {
+    "id": "one_arm_hangs",
+    "name": "One-Arm Hangs",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "expert",
+    "techniqueFocus": ["handwork"],
+    "description": "Hang on a 20mm edge with one arm for 5–10 seconds. Use a pulley system to remove weight if you cannot hang bodyweight. 3 sets per arm with 3 minutes rest.\n\nAdvanced max-strength protocol. Only attempt after at least 2 years of consistent hangboard training with no current injuries."
+  },
+  {
+    "id": "tag_game",
+    "name": "Tag on the Wall",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Two climbers traverse on the same wall. One is 'it' and must tag the other by touching their shoulder. Feet must stay on the wall — if you touch the ground, you become 'it'.\n\nA high-energy game that builds endurance and quick decision-making. Perfect for kids and warm-ups."
+  },
+  {
+    "id": "add_on_game",
+    "name": "Add-On",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Like 2-2-2 but simpler: each climber adds just 1 move. Starting from designated holds, take turns adding one move. If you fall, you're out. Last climber standing wins.\n\nSimpler than 2-2-2 — great for younger kids or beginners. Teaches route-reading and memory."
+  },
+  {
+    "id": "shark_attack",
+    "name": "Shark Attack",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "The floor is lava (sharks!). Climbers must traverse from one end of the wall to the other without touching the ground. If you touch down, you start over.\n\nA classic kids' game that naturally builds traversing endurance and problem-solving. Use easy holds on a low wall."
+  },
+  {
+    "id": "colour_call_out",
+    "name": "Colour Call-Out",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "A leader calls out a colour while climbers are on the wall. Climbers must immediately find and grab a hold of that colour. Keep calling colours every 5–10 seconds.\n\nPlayful, fast-paced game that builds scanning ability and quick decision-making. Great for large groups."
+  },
+  {
+    "id": "climb_the_alphabet",
+    "name": "Climb the Alphabet",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "While traversing, trace letters of the alphabet with your body movement. Start with A, B, C — each letter means a different traverse pattern (up-down for A, loop for B, etc.).\n\nCreative game for kids that disguises endurance training as play. The coach can assign movement patterns to letters."
+  },
+  {
+    "id": "simon_says_climbing",
+    "name": "Simon Says Climbing",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "A leader gives commands: 'Simon says... right hand up!', 'Simon says... left foot on the blue hold!'. Without 'Simon says', don't move. If you move wrongly or fall, you're out.\n\nCombines listening skills with climbing. Excellent for young children learning body awareness and hold identification."
+  },
+  {
+    "id": "treasure_hunt_wall",
+    "name": "Treasure Hunt",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Hide small stickers or objects on holds across the wall. Climbers must find and collect them all by climbing to each one. First to find all items wins.\n\nMotivates sustained climbing without kids realising they're training endurance. Works on any wall angle."
+  },
+  {
+    "id": "animal_climbing",
+    "name": "Animal Climbing",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "The leader calls out an animal: 'frog' (wide legs, hop between holds), 'monkey' (dynamic swings), 'cat' (silent, precise), 'sloth' (super slow). Climbers must imitate that movement style.\n\nTeaches different movement qualities through play. Excellent for developing movement vocabulary in children."
+  },
+  {
+    "id": "relay_race_traverse",
+    "name": "Relay Race Traverse",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Two teams race in a relay: each climber traverses to a marked hold, touches it, then traverses back. The next teammate goes. First team to complete all legs wins.\n\nHigh-energy team game that builds speed and endurance. Set the traverse difficulty well below everyone's max."
+  },
+  {
+    "id": "points_game",
+    "name": "Points Game",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Assign point values to boulders (harder = more points). Each climber has 20 minutes to collect as many points as possible. Boulders only count if sent cleanly (no falls).\n\nSelf-directed game that teaches kids to manage effort and choose challenges wisely. Works for mixed-ability groups."
+  },
+  {
+    "id": "elimination_traverse",
+    "name": "Elimination Traverse",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "All climbers start traversing together. Every 30 seconds, the leader removes one hold (marks it off-limits). If you're on that hold or fall, you're out. Last climber on the wall wins.\n\nExciting group game that naturally builds endurance and adaptability. Adjust timing for difficulty."
+  },
+  {
+    "id": "competition_simulation",
+    "name": "Competition Simulation",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Set up 4 boulder problems like a competition round. Give yourself 5 minutes per problem and 5 minutes rotation time. Score: flash = 10 pts, 2nd try = 7 pts, 3rd try = 5 pts.\n\nSimulates competition pressure and time management. Practice composure and efficient attempts."
+  },
+  {
+    "id": "flash_challenge",
+    "name": "Flash or Fall Challenge",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Attempt to flash 10 boulder problems at max-2. You get exactly one attempt per problem. Record your flash rate. Aim to improve it session over session.\n\nTrains first-attempt performance, route reading under pressure, and confidence in execution."
+  },
+  {
+    "id": "team_boulder_comp",
+    "name": "Team Boulder Competition",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Split into teams of 2–3. Each team has 30 minutes to send as many problems as possible. Only the first clean send of each problem by a team member counts. Team with most sends wins.\n\nEncourages beta-sharing and team support. Perfect for groups with mixed levels."
+  },
+  {
+    "id": "breathing_on_wall",
+    "name": "Breathing Focus",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Climb an easy route and exhale deliberately on every move — breathe out as you reach. Never hold your breath. If you catch yourself holding, pause and take 3 controlled breaths.\n\nMost climbers unconsciously hold their breath, accelerating the pump. This drill breaks that habit."
+  },
+  {
+    "id": "fear_management_laps",
+    "name": "Fear Management Laps",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choose a lead route well below your limit. Climb it 3 times back-to-back focusing on relaxation: soft grip, slow breathing, lowered shoulders. Notice where anxiety spikes and consciously release tension.\n\nRepetition on easy terrain rewires your nervous system to associate height with comfort rather than threat."
+  },
+  {
+    "id": "visualization_session",
+    "name": "Visualization Session",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "lead", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Before attempting a project, sit below it and close your eyes. Visualize each move in sequence — feel the holds, the body positions, the breathing. Run through the sequence 3 times mentally.\n\nMental rehearsal activates the same neural pathways as physical practice. Used by competition climbers before every attempt."
+  },
+  {
+    "id": "three_move_game",
+    "name": "Three-Move Game",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Two climbers take turns setting 3-move mini-boulders for each other. Start holds + 3 hand moves + a finish hold. Make them as hard as possible while still achievable.\n\nBrilliant for training max strength and creativity. The short format allows full intensity. Keep it playful and competitive."
+  },
+  {
+    "id": "volume_day_session",
+    "name": "Volume Day",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Climb as many routes or boulders as possible in 90 minutes at max-4 or easier. No project attempts — just move on the wall continuously with short chalk breaks.\n\nPure volume builds aerobic base, movement skills, and tendon resilience. Track total ascents session over session."
+  },
+  {
+    "id": "linked_circuits_stamina",
+    "name": "Linked Circuits for Stamina",
+    "targetAudience": ["adult"],
+    "energySystems": ["stamina"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Climb a hard boulder at max-1, rest 3 minutes, repeat. Do 5 rounds. The goal is to send on every attempt despite accumulating fatigue. This trains recovery between hard efforts.\n\nDirectly simulates competition stamina — performing at limit multiple times in one session."
+  },
+  {
+    "id": "aerobic_capacity_laps",
+    "name": "AeroCap Laps",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Climb a route at max-5 or easier repeatedly for 30 minutes. You should never pump out. Keep heart rate moderate and focus on smooth, efficient movement throughout.\n\nBuilds the aerobic base of your forearm muscles. Boring but effective — this is the foundation for all other energy systems."
+  },
+  {
+    "id": "antagonist_exercises",
+    "name": "Antagonist Training",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Between climbing sets, perform 3 rounds of: 10 push-ups, 10 reverse wrist curls, 10 external shoulder rotations. Use light resistance.\n\nPrevents imbalances that lead to injury. Climbers overdevelop pulling muscles — this maintains pushing and stabiliser strength."
+  },
+  {
+    "id": "core_tension_traverse",
+    "name": "Core Tension Traverse",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Find a steep traverse (30–45° overhang). Traverse across keeping your feet from cutting loose — use core tension to glue them to the wall. If feet swing, stop and regroup.\n\nTrains the body tension essential for overhanging routes. Focus on breathing through the tension."
+  },
+  {
+    "id": "one_hand_traverse",
+    "name": "One Hand at a Time",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Traverse a wall using only one hand at a time — fully release the previous hold before grabbing the next. Both feet must be on the wall before each move.\n\nExtreme lock-off and body position training. Start on easy terrain and progress. Develops crushing single-arm strength."
+  },
+  {
+    "id": "pace_climbing",
+    "name": "Pace Climbing with Metronome",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Set a metronome to 30 BPM. Make exactly one move per beat on a route at max-3. You cannot move faster or slower. This forces a consistent rhythm.\n\nTeaches pacing — neither rushing nor stalling. Builds awareness of how tempo affects pump and energy management."
+  },
+  {
+    "id": "mystery_boulder",
+    "name": "Mystery Boulder",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "One climber sets a boulder and hides it (covers marked holds). The challenger uncovers holds one by one while climbing — they only see the next hold when they reach for it.\n\nPlayful surprise element that trains reactive climbing and adaptability. Great for kids and groups."
+  }
+]

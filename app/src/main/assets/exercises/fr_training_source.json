@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ben_moon_session",
+    "name": "Séance Ben Moon",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Commencez dans une voie facile d'échauffement. Si la voie est enchaînée, montez d'un niveau pour la suivante. En cas de chute, redescendez d'un niveau. Au fil de la séance, vous montez jusqu'à votre niveau max puis redescendez inévitablement à cause de la fatigue.\n\nVisez au minimum 8 voies, idéalement une quinzaine. Les temps de repos entre les voies doivent être les plus courts possibles."
+  },
+  {
+    "id": "verdon_session",
+    "name": "Séance Verdon",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Séance de volume ludique basée sur des grandes voies en falaise. Chaque cordée choisit une grande voie fictive (ex. 150m, 6 longueurs) et réalise les longueurs en grimpant des voies en salle du niveau indiqué, dans l'ordre.\n\nChaque grimpeur doit arriver en haut de chaque longueur, même avec des pauses. Exercice en équipe qui stimule l'imagination et le travail en cordée."
+  },
+  {
+    "id": "climb_down_climb",
+    "name": "MDM (Monter Descendre Monter)",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Grimpez une voie, redescendez-la en multicolore, puis remontez-la. Cela permet d'enchaîner environ 100 mouvements en une seule séquence dans une grande salle.\n\nVariante plus difficile : désescaladez dans la même voie au lieu de multicolore, ce qui axe davantage l'exercice sur la résistance longue."
+  },
+  {
+    "id": "climb_in_pairs",
+    "name": "Grimpe à Deux",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Faites grimper deux élèves en même temps. Le premier grimpe une voie de niveau moyen. Une fois en haut, l'assureur verrouille le Grigri puis grimpe à son tour pendant que le premier désescalade en multicolore.\n\nExercice ludique qui crée de l'émulation entre les grimpeurs. Attention : celui qui grimpe ne peut pas aller plus vite que celui qui désescalade."
+  },
+  {
+    "id": "the_pyramid",
+    "name": "La Pyramide",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Variez le nombre de voies et leur intensité sous forme de pyramide : 3x voie max-3, 2x voie max-2, 1x voie max-1, puis redescendez. La séance complète dure environ 2h30 pour ~360 mouvements.\n\nVariante longue : 4x max-4 / 3x max-3 / 2x max-2 / 1x max-1 puis retour, avec 12-15 min de repos entre chaque étage (~630 mouvements)."
+  },
+  {
+    "id": "endless_ascent",
+    "name": "Ascension Sans Fin",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Montez 10 mouvements dans une voie, redescendez de 5, remontez de 10, redescendez de 5, et ainsi de suite jusqu'en haut. Variez la difficulté : voie plus dure pour la résistance longue, plus facile pour le volume.\n\nExercice exigeant mentalement car on n'en voit jamais le bout — c'est aussi un bon test de combativité."
+  },
+  {
+    "id": "two_two_two",
+    "name": "2-2-2",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Un bac de départ est déterminé. Le premier grimpeur ajoute 2 mouvements de son choix. Le suivant refait les mêmes mouvements puis en ajoute 2 autres. Ainsi de suite. Si un grimpeur chute, il est éliminé.\n\nJeu de 2 à 4 grimpeurs qui travaille la résistance et la mémorisation. Variez l'intensité des mouvements pour cibler la résistance courte ou longue."
+  },
+  {
+    "id": "max_hang_suspensions",
+    "name": "Suspensions",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Tenez une prise le plus longtemps possible, sans les pieds. Variez les préhensions : réglettes, plats, pinces, semi-arquées, tendues.\n\nPrise tenue 3-5s = force max. Prise tenue 5-15s = résistance courte. Prise tenue 20s+ = résistance longue. Travaillez avec un partenaire de même niveau pour booster la motivation."
+  },
+  {
+    "id": "gullich_board_circuit",
+    "name": "Circuit sur Pan Güllich",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Le grimpeur démarre sur la latte la plus basse du pan Güllich. À l'aide du bâton, le coach indique une position (latte + gauche/droite/milieu), le grimpeur déplace une main. Le coach indique une autre position, et ainsi de suite.\n\nVariez l'intensité avec grosses ou petites lattes, un ou deux pieds autorisés. 10-20 mouvements pour la résistance courte, 30-50 pour la longue."
+  },
+  {
+    "id": "stick_traverse",
+    "name": "Traversée au Bâton",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Un grimpeur exécute les mouvements indiqués par son partenaire à l'aide d'un bâton. Le partenaire désigne les prises de mains (droite ou gauche), le grimpeur se place pour les atteindre.\n\nIncitez à changer de position à chaque mouvement pour trouver une Position de Moindre Effort. Changez les rôles après une chute. Excellent pour la lecture directe et la résistance."
+  },
+  {
+    "id": "route_series",
+    "name": "Séries dans les Voies",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Effectuez 2 à 3 fois de suite, sans repos, une voie de niveau max-2. Dès que vous descendez, redémarrez immédiatement sans vous reposer au sol.\n\nVisez une chute en fin de 2e voie ou un enchaînement de la 2e et chute dans la 3e. Favorisez une grimpe lente et posée, en restant sur les prises et en gérant l'effort."
+  },
+  {
+    "id": "resistance_circuits",
+    "name": "Circuits RC / RL",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance", "endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Le coach prépare un circuit de mouvements de mains (pieds libres). Circuit RC : 15-20 mouvements à 90% d'intensité, chute car impossible de faire un mouvement de plus. Circuit RL : 30-50 mouvements à 75-85%, les doigts s'ouvrent tout seuls.\n\nVariante RL sur base RC : circuit en boucle avec bac au départ, faire 3 boucles, chute dans la 2e moitié de la 3e."
+  },
+  {
+    "id": "clipping_circuit",
+    "name": "Clippage en Circuit",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Le coach prépare un circuit avec des dégaines pré-placées. Le grimpeur réalise le circuit avec un bout de corde (3-5m) au baudrier et clippe toutes les dégaines.\n\nInsistez sur l'emploi d'une Position de Moindre Effort pour clipper et une technique de clippage propre. Variante : le grimpeur installe lui-même les dégaines."
+  },
+  {
+    "id": "clipping_route",
+    "name": "La Voie du Clippage",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Le grimpeur s'équipe d'un bout de corde (3-5m) et d'une dizaine de dégaines. Il grimpe une voie en « fausse tête » : à chaque plaquette, il met une dégaine et clippe.\n\nPermet de travailler en situation de premier de cordée des voies pas prévues pour la tête. En coaching : technique de clippage et PME. En entraînement : résistance longue dans des voies proches du max."
+  },
+  {
+    "id": "recovery_on_jugs",
+    "name": "Récup sur Bacs",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Faites une voie de niveau max ou max-1. De retour au sol, allez directement prendre un gros bac et délayez le temps nécessaire. Dès que vous vous sentez prêt, repartez dans la voie.\n\nInsistez sur les Positions de Moindre Effort et la décontraction. L'aspect tactique est clé : repartir ni trop tôt (pas récupéré) ni trop tard (fatigue reprend le dessus)."
+  },
+  {
+    "id": "slow_climbing",
+    "name": "Grimper Lentement",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "Grimpez le plus lentement possible. À chaque mouvement, trouvez la Position de Moindre Effort et décontractez le bras au repos. Insistez sur la précision des pieds, les transferts d'appuis, l'équilibre et la respiration.\n\nVariante : tenir 3 secondes sur chaque prise, ou délayer 5 secondes chaque bras dans une voie max-3/-4."
+  },
+  {
+    "id": "eight_minutes_pump",
+    "name": "8 Minutes pour Dauber",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Le grimpeur doit effectuer une voie (max-3 à max-1) en 8 minutes minimum. Il ne peut arriver en haut avant ce temps et ne doit pas chuter. Les repos totaux sont à éviter.\n\nVariante : autoriser la désescalade pour faire circuler le sang. Ou traversée auto-improvisée en dévers pendant 8-12 minutes sans mettre le pied au sol."
+  },
+  {
+    "id": "boulder_circuits",
+    "name": "Circuits de Blocs",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance", "endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Sélectionnez 3-5 blocs de niveau max-4 ou max-3. Enchaînez-les sans repos, prenez 30 secondes de repos, recommencez. Faites 3 séries.\n\nPour la résistance longue : diminuez l'intensité et les repos, séries plus longues. Pour la résistance courte : augmentez l'intensité, séries plus courtes, repos légèrement plus longs."
+  },
+  {
+    "id": "blindfold_climbing",
+    "name": "Grimpe les Yeux Bandés",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["top_rope"],
+    "level": "advanced",
+    "techniqueFocus": ["body_movement"],
+    "description": "Choisissez une voie connue de difficulté moyenne. Lisez-la entièrement et mémorisez tous les mouvements. Les yeux bandés, essayez d'aller le plus loin possible sans utiliser de prises d'autre couleur.\n\nTrès exigeant physiquement car tous les mouvements sont réalisés en statique (on cherche les prises à tâtons). Excellent pour la mémorisation."
+  },
+  {
+    "id": "touch_hold_commit",
+    "name": "Prise Touchée = Prise Tenue",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Faites une voie de niveau max-1 ou max-2, à vue. Si vous touchez une prise avec la main, vous êtes obligé de la tenir et d'effectuer ensuite un déplacement de l'autre main.\n\nOblige à anticiper les mouvements et confronte aux conséquences des erreurs. Après la voie, analysez les erreurs et rectifiez. Propice aussi au travail de résistance longue."
+  },
+  {
+    "id": "above_max_route",
+    "name": "Voie Max+1",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choisissez une voie de niveau max+1 ou max+2 et tentez d'aller le plus loin possible en un essai. Idéalement, vous devriez chuter dans le 2e tiers de la voie.\n\nAutorisez éventuellement quelques prises de pieds supplémentaires. Variante : un demi-niveau au-dessus avec pieds multicolores. Très motivant car on découvre qu'on peut aller au-delà de son niveau."
+  },
+  {
+    "id": "gullich_board_training",
+    "name": "Pan Güllich",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Démarrez deux mains sur la latte du bas, puis remontez en alternant main gauche et main droite. Une fois en haut, redescendez de la même façon.\n\nVariantes : petites/grosses lattes, un pied ou deux, double-dyno, blocages, croisés. Force max = 1-3 mouvements supra-max. Résistance courte = 10-20 mouvements. Résistance longue = 30-40 mouvements. Réservé aux grimpeurs confirmés, bien échauffés."
+  },
+  {
+    "id": "pull_up_and_climb",
+    "name": "Tracte et Grimpe",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Encordez-vous sur une voie max-1. Faites un maximum de tractions sur deux gros bacs en début de voie. Récupérez sur ces mêmes bacs en délayant, puis une fois prêt, faites la voie en gérant votre effort.\n\nVariante : au lieu de récupérer sur les bacs, récupérez dans une voie facile ou multicolore avant de repartir dans la voie max-1."
+  },
+  {
+    "id": "rest_in_any_position",
+    "name": "En Toute Situation",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Dans une voie max-2 ou max-1, faites 5 mouvements puis délayez 30 secondes sur les deux prises obtenues. Débrouillez-vous avec les prises et positions sur lesquelles vous tombez, cherchez les PME, serrez le moins possible.\n\nRefaites 5 mouvements, délayez, et ainsi de suite jusqu'en haut. Nécessite une bonne notion de relâchement et de recherche de PME."
+  },
+  {
+    "id": "varied_intensity_circuits",
+    "name": "Circuits Diversifiés",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Créez un circuit avec une séquence de 8-12 mouvements intenses, un repos sur bac, puis une séquence plus longue (20-30 mouvements) et moins intense.\n\nVariantes : deux séquences intenses séparées par des repos, ou intensité décroissante sur 3 sections. Le grimpeur doit gérer correctement son effort entre sections intenses et repos."
+  },
+  {
+    "id": "invent_your_boulders",
+    "name": "Blocs Inventés",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance", "pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Chaque grimpeur invente un bloc de 4-8 mouvements dans la zone désignée par le coach. Les blocs doivent être imaginés du sol sans essayer les mouvements. Chacun teste ensuite son bloc et celui des autres.\n\nJeu créatif : piochez des fiches avec emplacement, nombre de mouvements et consignes (pieds libres, inversés, mini prises…). Excellent pour la lecture et la projection de soi sur le mur."
+  },
+  {
+    "id": "minute_contract",
+    "name": "Contrat-Minute",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Démarrez le chronomètre et effectuez un exercice (tractions, suspensions…). Recommencez à chaque minute. Si l'exercice prend 15 secondes, vous avez 45 secondes de repos. Répétez pendant 10 minutes.\n\nVariez : 1-3 tractions, suspensions de durées variables, blocages, gainage. La qualité d'exécution doit rester correcte jusqu'à la dernière série."
+  }
+]

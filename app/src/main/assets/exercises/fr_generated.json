@@ -1,0 +1,622 @@
+[
+  {
+    "id": "warm_up_traverses",
+    "name": "Traversées d'Échauffement",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Traversez un mur bas dans les deux sens pendant 5 à 10 minutes à un niveau très facile. Concentrez-vous sur un mouvement fluide et continu pour faire circuler le sang dans les doigts et les avant-bras.\n\nUtilisez cet exercice pour commencer chaque séance. Ne forcez pas l'intensité — l'objectif est uniquement l'échauffement et la conscience corporelle."
+  },
+  {
+    "id": "joint_mobility_on_wall",
+    "name": "Mobilité Articulaire au Mur",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Grimpez une voie facile ou traversez en faisant une pause à chaque prise pour tourner les hanches, faire des cercles d'épaules et fléchir les chevilles. Bougez dans toute l'amplitude à chaque arrêt.\n\nDéveloppe la conscience de la mobilité et échauffe les articulations en toute sécurité avant une grimpe plus intense."
+  },
+  {
+    "id": "easy_down_climbing",
+    "name": "Désescalade Facile",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Grimpez une voie facile jusqu'en haut, puis inversez chaque mouvement en redescendant. Posez chaque pied aussi précisément en descendant qu'en montant.\n\nDéveloppe la proprioception, la confiance dans les pieds et le mouvement contrôlé. Également excellent comme retour au calme en fin de séance."
+  },
+  {
+    "id": "progressive_warm_up",
+    "name": "Échauffement Progressif",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez 3 voies ou blocs de difficulté croissante : d'abord à max-6, puis max-4, puis max-2. Repos de 2 minutes entre chaque. N'essayez rien à votre max avant d'avoir terminé cette séquence.\n\nUn échauffement structuré qui prépare les tendons et les muscles progressivement."
+  },
+  {
+    "id": "cool_down_slab",
+    "name": "Retour au Calme en Dalle",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Après votre séance principale, passez 10 minutes à grimper des dalles très faciles en vous concentrant uniquement sur la respiration douce et les placements de pieds légers. Pas de traction intense.\n\nFavorise la circulation sanguine pour la récupération et renforce les bonnes habitudes de mouvement même en état de fatigue."
+  },
+  {
+    "id": "toe_hook_practice",
+    "name": "Travail de Crochetage Pointe",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork"],
+    "description": "Trouvez 5 blocs nécessitant des crochets de pointe. Grimpez chacun en maximisant l'engagement du dessus du pied. Maintenez chaque crochet 3 secondes avant de progresser.\n\nDéveloppe la mémoire musculaire et la tension du pied nécessaires pour la grimpe en toit et les dévers prononcés."
+  },
+  {
+    "id": "heel_hook_drills",
+    "name": "Travail de Crochetage Talon",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork"],
+    "description": "Sélectionnez 5 blocs avec des crochets de talon marqués. Sur chacun, tirez consciemment le talon et poussez les hanches vers le mur. Maintenez la position 3 secondes pour sentir l'engagement.\n\nDéveloppe l'activation des ischio-jambiers et des fessiers, essentiels pour l'efficacité en terrain raide."
+  },
+  {
+    "id": "smearing_slab",
+    "name": "Défi Adhérence en Dalle",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Grimpez une dalle en utilisant uniquement l'adhérence — pas de prises de pieds définies. Pressez le caoutchouc de votre chausson à plat contre le mur et faites confiance à la friction.\n\nEnseigne l'engagement du poids sur les pieds et développe la confiance en la friction. Commencez sur des angles faibles et progressez."
+  },
+  {
+    "id": "outside_edge_traverse",
+    "name": "Traversée en Carre Externe",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork"],
+    "description": "Traversez une longue section de mur en utilisant uniquement le carre externe de votre chausson sur chaque prise de pied. Cela force la rotation des hanches et le positionnement en lolotte.\n\nDéveloppe l'habitude de tourner les hanches vers le mur plutôt que grimper de face. Traversez 3 à 5 minutes dans chaque direction."
+  },
+  {
+    "id": "flag_every_move",
+    "name": "Drapeau à Chaque Mouvement",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Grimpez une voie modérée en posant un drapeau (jambe libre tendue pour l'équilibre) à chaque mouvement, même quand ce n'est pas strictement nécessaire. Alternez drapeaux intérieurs et extérieurs.\n\nDéveloppe les réponses d'équilibre automatiques et enseigne quand le drapeau économise de l'énergie."
+  },
+  {
+    "id": "foot_swap_drill",
+    "name": "Exercice d'Échange de Pieds",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Sur un mur vertical avec de petites prises de pieds, entraînez-vous à échanger vos pieds sur la même prise sans regarder en bas. Sautillez d'un orteil à l'autre ou roulez.\n\nDéveloppe la précision et la confiance dans les remplacements de pieds — compétence fondamentale pour l'escalade en tête et les longues traversées."
+  },
+  {
+    "id": "drop_knee_practice",
+    "name": "Travail du Genou Tombé",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Trouvez 5 mouvements de bloc raide où un genou tombé (lolotte profonde) économise de l'énergie. Maintenez chaque position 5 secondes pour sentir le soulagement apporté.\n\nUne technique clé pour les voies raides — entraîne la souplesse des hanches et rend les mouvements durs plus faciles."
+  },
+  {
+    "id": "high_step_challenge",
+    "name": "Défi du Pas Haut",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Grimpez une voie verticale ou légèrement déversante en choisissant délibérément la prise de pied la plus haute possible pour chaque mouvement. Poussez sur vos jambes plutôt que tirer avec les bras.\n\nDéveloppe la souplesse des hanches et enseigne à générer le mouvement depuis le bas du corps."
+  },
+  {
+    "id": "open_hand_only",
+    "name": "Main Ouverte Uniquement",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Grimpez 5 voies ou blocs en utilisant uniquement la prise main ouverte — pas d'arqué autorisé. Si vous vous surprenez à arquer, arrêtez et changez de prise.\n\nRenforce la position main ouverte et protège les poulies. Développe aussi l'endurance des doigts pour les voies longues."
+  },
+  {
+    "id": "pinch_block_training",
+    "name": "Entraînement en Pince",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Sur des prises en pince larges, effectuez 5 séries de 10 secondes d'effort maximal par main. Repos de 2 minutes entre les séries.\n\nDéveloppe la force d'opposition du pouce, critique pour l'escalade en extérieur sur les formes naturelles. Suivez le poids ajouté au fil du temps."
+  },
+  {
+    "id": "sloper_circuit",
+    "name": "Circuit de Plats",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Trouvez ou créez un circuit de 8 à 12 prises plates (slopers). Traversez en gardant votre centre de gravité directement sous chaque prise et en pressant avec la paume ouverte.\n\nEntraîne le positionnement du corps sous les plats — la clé pour les tenir est la position, pas la force de préhension."
+  },
+  {
+    "id": "finger_rolls",
+    "name": "Roulements de Doigts sur Poutre",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork"],
+    "description": "Suspendez-vous à une grande réglette de poutre à deux mains. Ouvrez lentement les doigts d'une position arquée à main ouverte, puis refermez. Répétez 10 fois par série, 3 séries.\n\nDéveloppe la coordination extenseurs/fléchisseurs des doigts et la circulation sanguine dans les avant-bras. Bon exercice de récupération active."
+  },
+  {
+    "id": "crimp_ladder",
+    "name": "Échelle de Réglettes",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Sur une poutre, suspendez-vous 7 secondes sur des réglettes de taille décroissante : 20mm, 15mm, 12mm, 10mm. Repos de 3 minutes entre chaque taille. Prise semi-arquée uniquement.\n\nProtocole de force maximale pour les tendons des doigts. Réservé aux grimpeurs expérimentés sans blessures aux doigts."
+  },
+  {
+    "id": "hip_rotation_drill",
+    "name": "Exercice de Rotation des Hanches",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Grimpez un mur vertical et avant chaque mouvement de main, tournez consciemment les hanches pour que le côté correspondant fasse face au mur. Sentez comment cela allonge votre allonge et réduit l'effort des bras.\n\nLa technique la plus impactante pour les débutants — transforme la grimpe de face en mouvement efficace."
+  },
+  {
+    "id": "twist_lock_practice",
+    "name": "Travail du Verrou Torsion",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Sur un mur raide, pratiquez le verrou torsion : tournez le corps de côté, verrouillez sur le bras bas, et allez chercher avec le bras haut. Maintenez la position verrouillée 2 secondes avant d'attraper la prise suivante.\n\nDéveloppe la force du tronc et la coordination pour grimper efficacement en dévers."
+  },
+  {
+    "id": "dynamic_movement_drill",
+    "name": "Exercice de Mouvement Dynamique",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Trouvez 5 mouvements de bloc nécessitant un jeté ou un point mort. Pratiquez chacun 5 fois en vous concentrant sur la génération d'élan par les jambes et l'attrapage au sommet du mouvement.\n\nDéveloppe le timing, la coordination et la puissance explosive. Réceptionnez en douceur et reposez entre les essais."
+  },
+  {
+    "id": "quiet_hands",
+    "name": "Mains Silencieuses",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "handwork"],
+    "description": "Grimpez une voie en attrapant chaque prise en un seul geste fluide — pas de réajustement, pas de double prise. Si vous devez réajuster, c'est que la prise a été mal attrapée.\n\nEntraîne le placement précis des mains et élimine le gaspillage d'énergie. À combiner avec Pieds Silencieux pour un travail de précision maximal."
+  },
+  {
+    "id": "momentum_traverse",
+    "name": "Traversée en Élan",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Trouvez une longue traversée raide avec des prises espacées. Déplacez-vous en utilisant un élan contrôlé — jamais statique, toujours en flux d'une prise à l'autre.\n\nEnseigne à utiliser le balancement et la tension corporelle plutôt que la pure force de traction en terrain déversant."
+  },
+  {
+    "id": "coordination_dyno_game",
+    "name": "Jeu de Jetés Coordination",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Deux grimpeurs se défient : A choisit des prises de départ et une cible, B doit l'attraper en jeté. Puis B en pose un pour A. Augmentez progressivement la difficulté.\n\nJeu compétitif qui développe la puissance explosive et la précision. Gardez des hauteurs sécuritaires avec de bons tapis."
+  },
+  {
+    "id": "balance_board_warmup",
+    "name": "Échauffement sur Planche d'Équilibre",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Passez 5 minutes sur une planche d'équilibre ou un coussin instable avant de grimper. Essayez sur un pied, les yeux fermés, ou en petits squats.\n\nActive les muscles stabilisateurs et la proprioception. Se traduit directement en meilleur équilibre sur le mur."
+  },
+  {
+    "id": "lead_fall_practice",
+    "name": "Entraînement aux Chutes en Tête",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Sur une voie en tête bien en dessous de votre max, pratiquez les chutes à chaque dégaine. Commencez par des chutes juste au-dessus du point, puis progressez vers des chutes plus longues.\n\nDéveloppe la confiance dans le système de corde et enlève la barrière mentale de la chute. Toujours avec un assureur expérimenté."
+  },
+  {
+    "id": "clip_and_rest",
+    "name": "Clipper et Récupérer",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez une voie en tête 2 niveaux sous votre limite. À chaque dégaine, trouvez délibérément la meilleure position de repos, délayez 10 secondes, puis continuez.\n\nDéveloppe la compétence tactique de savoir quand et comment se reposer en tête — crucial pour l'enchaînement."
+  },
+  {
+    "id": "onsight_lead_session",
+    "name": "Séance À-Vue en Tête",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez 5 voies en tête à max-2, toutes à vue. Pas de beta, pas d'observation des autres. Lisez la voie depuis le sol pendant 3 minutes, puis partez. Notez combien vous enchaînez au premier essai.\n\nDéveloppe le sang-froid et les compétences de lecture essentiels pour l'escalade sportive extérieure et les compétitions."
+  },
+  {
+    "id": "lead_endurance_links",
+    "name": "Enchaînements d'Endurance en Tête",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez 3 voies en tête l'une après l'autre avec seulement 2 minutes de repos entre chaque. Choisissez des voies à max-3 pour pouvoir finir les trois sans chuter.\n\nSimule les exigences de la couenne multi-longueurs ou des finales de compétition où le temps de récupération est limité."
+  },
+  {
+    "id": "mock_competition_lead",
+    "name": "Simulation Compétition Tête",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["lead"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Lancez un chrono de 6 minutes (format compétition). Choisissez une voie à votre limite ou au-dessus. Essayez d'aller le plus haut possible dans le temps imparti. Un partenaire note votre prise la plus haute.\n\nRecrée la pression de compétition et la gestion du temps. Faites 2-3 tours avec 20 minutes de repos entre."
+  },
+  {
+    "id": "clipping_speed_drill",
+    "name": "Exercice de Vitesse de Clippage",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Sur une voie bien sous votre limite, concentrez-vous uniquement sur la vitesse de clippage. Tirez la corde et clippez en un seul mouvement fluide. Chronométrez chaque clip et visez moins de 2 secondes.\n\nDes clips rapides signifient moins de temps en position fatigante. Pratiquez des deux mains (gauche et droite)."
+  },
+  {
+    "id": "power_endurance_boulders",
+    "name": "Blocs Puissance-Endurance",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Choisissez 3 blocs à max-1. Grimpez chacun 3 fois avec 1 minute de repos entre les essais et 5 minutes entre les blocs. Chaque essai doit être plus difficile que le précédent.\n\nEntraîne la capacité à effectuer des mouvements puissants en état de pompe — essentiel pour les sections crux des voies dures."
+  },
+  {
+    "id": "limit_bouldering",
+    "name": "Bloc à la Limite",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Travaillez sur 2-3 blocs à votre limite absolue (max ou max+1). Donnez tout à chaque essai avec 5 minutes de repos entre les burns. Limitez la séance à 45 minutes.\n\nPur entraînement de force et de recrutement. La qualité prime sur la quantité — arrêtez quand les mouvements se dégradent."
+  },
+  {
+    "id": "board_climbing_volume",
+    "name": "Volume sur Mur d'Entraînement",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Sur un mur d'entraînement standardisé (Kilter, Moon, Tension), grimpez 20 blocs 3-5 niveaux sous votre flash. Bougez continuellement avec seulement des pauses magnésie entre les blocs.\n\nDéveloppe le vocabulaire de mouvement en terrain raide tout en accumulant du volume sans surcharge excessive."
+  },
+  {
+    "id": "explosive_pull_ups",
+    "name": "Tractions Explosives",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["other"],
+    "description": "Effectuez 5 séries de 3 tractions aussi explosives que possible — essayez de monter la poitrine à la barre. Repos de 3 minutes entre les séries.\n\nDéveloppe la puissance explosive du haut du corps nécessaire pour les mouvements dynamiques et le style campus."
+  },
+  {
+    "id": "one_arm_hangs",
+    "name": "Suspensions à Un Bras",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "expert",
+    "techniqueFocus": ["handwork"],
+    "description": "Suspendez-vous à une réglette de 20mm avec un seul bras pendant 5-10 secondes. Utilisez un système de poulie pour retirer du poids si nécessaire. 3 séries par bras avec 3 minutes de repos.\n\nProtocole de force max avancé. À tenter uniquement après au moins 2 ans d'entraînement régulier sur poutre sans blessure actuelle."
+  },
+  {
+    "id": "tag_game",
+    "name": "Chat Perché au Mur",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Deux grimpeurs traversent le même mur. L'un est le « chat » et doit toucher l'épaule de l'autre. Les pieds doivent rester sur le mur — si vous touchez le sol, vous devenez le chat.\n\nJeu énergique qui développe l'endurance et la prise de décision rapide. Parfait pour les enfants et les échauffements."
+  },
+  {
+    "id": "add_on_game",
+    "name": "Add-On",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Comme le 2-2-2 mais plus simple : chaque grimpeur n'ajoute qu'un seul mouvement. Depuis des prises de départ, chacun ajoute un mouvement à son tour. Si vous tombez, vous êtes éliminé. Le dernier en lice gagne.\n\nPlus simple que le 2-2-2 — idéal pour les jeunes enfants ou les débutants. Entraîne la lecture et la mémoire."
+  },
+  {
+    "id": "shark_attack",
+    "name": "Attaque de Requin",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Le sol est de la lave (des requins !). Les grimpeurs doivent traverser d'un bout à l'autre du mur sans toucher le sol. Si vous touchez, vous recommencez depuis le début.\n\nJeu classique pour enfants qui développe naturellement l'endurance en traversée et la résolution de problèmes. Utilisez des prises faciles sur un mur bas."
+  },
+  {
+    "id": "colour_call_out",
+    "name": "Appel de Couleurs",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "Un meneur annonce une couleur pendant que les grimpeurs sont sur le mur. Ils doivent immédiatement trouver et attraper une prise de cette couleur. Annoncez une couleur toutes les 5-10 secondes.\n\nJeu ludique et rapide qui développe la capacité de repérage et la prise de décision rapide. Parfait pour les grands groupes."
+  },
+  {
+    "id": "climb_the_alphabet",
+    "name": "Grimper l'Alphabet",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "En traversant, tracez les lettres de l'alphabet avec votre mouvement corporel. Commencez par A, B, C — chaque lettre correspond à un pattern de traversée différent (haut-bas pour A, boucle pour B, etc.).\n\nJeu créatif pour enfants qui déguise l'entraînement d'endurance en amusement. Le coach peut assigner des mouvements aux lettres."
+  },
+  {
+    "id": "simon_says_climbing",
+    "name": "Jacques a Dit Escalade",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "Un meneur donne des ordres : « Jacques a dit... main droite en haut ! », « Jacques a dit... pied gauche sur la prise bleue ! ». Sans « Jacques a dit », ne bougez pas. Si vous bougez mal ou tombez, vous êtes éliminé.\n\nCombine l'écoute et l'escalade. Excellent pour les jeunes enfants apprenant la conscience corporelle et l'identification des prises."
+  },
+  {
+    "id": "treasure_hunt_wall",
+    "name": "Chasse au Trésor",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Cachez de petits autocollants ou objets sur les prises du mur. Les grimpeurs doivent tous les trouver en grimpant jusqu'à chacun. Le premier à tout trouver gagne.\n\nMotive une grimpe soutenue sans que les enfants réalisent qu'ils entraînent l'endurance. Fonctionne sur tout angle de mur."
+  },
+  {
+    "id": "animal_climbing",
+    "name": "Grimpe Animale",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Le meneur annonce un animal : « grenouille » (jambes écartées, sauter entre les prises), « singe » (balancés dynamiques), « chat » (silencieux, précis), « paresseux » (ultra lent). Les grimpeurs imitent ce style.\n\nEnseigne différentes qualités de mouvement par le jeu. Excellent pour développer le vocabulaire gestuel chez les enfants."
+  },
+  {
+    "id": "relay_race_traverse",
+    "name": "Course de Relais en Traversée",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Deux équipes font un relais : chaque grimpeur traverse jusqu'à une prise marquée, la touche, puis revient. Le suivant part. Première équipe à finir tous ses passages gagne.\n\nJeu d'équipe énergique qui développe la vitesse et l'endurance. Réglez la difficulté de la traversée bien en dessous du max de tous."
+  },
+  {
+    "id": "points_game",
+    "name": "Jeu de Points",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Attribuez des points aux blocs (plus dur = plus de points). Chaque grimpeur a 20 minutes pour collecter le maximum de points. Les blocs ne comptent que s'ils sont enchaînés sans chute.\n\nJeu autonome qui enseigne aux enfants à gérer leur effort et choisir leurs défis. Fonctionne pour les groupes de niveaux mixtes."
+  },
+  {
+    "id": "elimination_traverse",
+    "name": "Traversée Élimination",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Tous les grimpeurs commencent à traverser ensemble. Toutes les 30 secondes, le meneur supprime une prise (la marque interdite). Si vous êtes dessus ou tombez, vous êtes éliminé. Dernier sur le mur gagne.\n\nJeu de groupe excitant qui développe naturellement l'endurance et l'adaptabilité. Ajustez le timing pour la difficulté."
+  },
+  {
+    "id": "competition_simulation",
+    "name": "Simulation de Compétition",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Préparez 4 blocs comme un tour de compétition. Accordez-vous 5 minutes par bloc et 5 minutes de rotation. Score : flash = 10 pts, 2e essai = 7 pts, 3e essai = 5 pts.\n\nSimule la pression de compétition et la gestion du temps. Pratiquez le sang-froid et les essais efficaces."
+  },
+  {
+    "id": "flash_challenge",
+    "name": "Défi Flash ou Chute",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Tentez de flasher 10 blocs à max-2. Vous n'avez qu'un seul essai par bloc. Notez votre taux de flash. Visez à l'améliorer séance après séance.\n\nEntraîne la performance au premier essai, la lecture sous pression, et la confiance dans l'exécution."
+  },
+  {
+    "id": "team_boulder_comp",
+    "name": "Compétition de Blocs en Équipe",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Divisez en équipes de 2-3. Chaque équipe a 30 minutes pour enchaîner le plus de blocs possible. Seul le premier enchaînement propre de chaque bloc par un membre compte. L'équipe avec le plus de tops gagne.\n\nEncourage le partage de beta et le soutien d'équipe. Parfait pour les groupes de niveaux mixtes."
+  },
+  {
+    "id": "breathing_on_wall",
+    "name": "Focus Respiration",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez une voie facile et expirez délibérément à chaque mouvement — soufflez en tendant le bras. Ne retenez jamais votre souffle. Si vous vous surprenez à bloquer, arrêtez et prenez 3 respirations contrôlées.\n\nLa plupart des grimpeurs retiennent inconsciemment leur souffle, accélérant la pompe. Cet exercice casse cette habitude."
+  },
+  {
+    "id": "fear_management_laps",
+    "name": "Tours de Gestion de la Peur",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choisissez une voie en tête bien sous votre limite. Grimpez-la 3 fois d'affilée en vous concentrant sur la relaxation : prise douce, respiration lente, épaules basses. Notez où l'anxiété monte et relâchez consciemment la tension.\n\nLa répétition sur terrain facile recâble votre système nerveux pour associer la hauteur au confort plutôt qu'à la menace."
+  },
+  {
+    "id": "visualization_session",
+    "name": "Séance de Visualisation",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "lead", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Avant de tenter un projet, asseyez-vous en dessous et fermez les yeux. Visualisez chaque mouvement en séquence — sentez les prises, les positions, la respiration. Parcourez la séquence mentalement 3 fois.\n\nLa répétition mentale active les mêmes voies neuronales que la pratique physique. Utilisé par les compétiteurs avant chaque essai."
+  },
+  {
+    "id": "three_move_game",
+    "name": "Jeu des Trois Mouvements",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Deux grimpeurs se posent à tour de rôle des mini-blocs de 3 mouvements. Prises de départ + 3 mouvements de mains + prise d'arrivée. Faites-les aussi durs que possible tout en restant faisables.\n\nExcellent pour la force max et la créativité. Le format court permet une intensité totale. Gardez l'esprit ludique et compétitif."
+  },
+  {
+    "id": "volume_day_session",
+    "name": "Journée Volume",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez autant de voies ou blocs que possible en 90 minutes à max-4 ou plus facile. Pas de projets — bougez sur le mur continuellement avec seulement des pauses magnésie.\n\nLe pur volume développe la base aérobie, les compétences de mouvement et la résilience tendineuse. Comptez le total d'ascensions par séance."
+  },
+  {
+    "id": "linked_circuits_stamina",
+    "name": "Circuits Liés pour la Stamina",
+    "targetAudience": ["adult"],
+    "energySystems": ["stamina"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez un bloc dur à max-1, repos 3 minutes, répétez. Faites 5 tours. L'objectif est d'enchaîner à chaque essai malgré la fatigue qui s'accumule. Cela entraîne la récupération entre efforts intenses.\n\nSimule directement la stamina de compétition — performer à la limite plusieurs fois dans une même séance."
+  },
+  {
+    "id": "aerobic_capacity_laps",
+    "name": "Tours de Capacité Aérobie",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Grimpez une voie à max-5 ou plus facile de manière répétée pendant 30 minutes. Vous ne devriez jamais pomper. Maintenez un rythme cardiaque modéré et concentrez-vous sur un mouvement fluide et efficace.\n\nConstruit la base aérobie de vos muscles d'avant-bras. Ennuyeux mais efficace — c'est le socle de tous les autres systèmes énergétiques."
+  },
+  {
+    "id": "antagonist_exercises",
+    "name": "Entraînement des Antagonistes",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Entre les séries d'escalade, effectuez 3 tours de : 10 pompes, 10 flexions inversées du poignet, 10 rotations externes d'épaule. Utilisez une résistance légère.\n\nPrévient les déséquilibres qui mènent aux blessures. Les grimpeurs surdéveloppent les muscles de traction — ceci maintient la force de poussée et des stabilisateurs."
+  },
+  {
+    "id": "core_tension_traverse",
+    "name": "Traversée en Tension Corporelle",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Trouvez une traversée raide (30-45° de dévers). Traversez en empêchant vos pieds de décrocher — utilisez la tension du tronc pour les coller au mur. Si les pieds balancent, arrêtez et regroupez.\n\nEntraîne la tension corporelle essentielle pour les voies déversantes. Concentrez-vous sur la respiration à travers la tension."
+  },
+  {
+    "id": "one_hand_traverse",
+    "name": "Une Main à la Fois",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Traversez un mur en n'utilisant qu'une main à la fois — lâchez complètement la prise précédente avant d'attraper la suivante. Les deux pieds doivent être sur le mur avant chaque mouvement.\n\nEntraînement extrême de blocage et de positionnement. Commencez sur du facile et progressez. Développe une force de bras unique."
+  },
+  {
+    "id": "pace_climbing",
+    "name": "Grimpe au Métronome",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["body_movement"],
+    "description": "Réglez un métronome à 30 BPM. Faites exactement un mouvement par battement sur une voie à max-3. Vous ne pouvez aller ni plus vite ni plus lentement. Cela force un rythme constant.\n\nEnseigne le cadencement — ni précipitation ni stagnation. Développe la conscience de l'impact du tempo sur la pompe et la gestion de l'énergie."
+  },
+  {
+    "id": "mystery_boulder",
+    "name": "Bloc Mystère",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["other"],
+    "description": "Un grimpeur crée un bloc et cache les prises (couvre les prises marquées). Le challenger découvre les prises une par une en grimpant — il ne voit la prochaine prise que quand il l'atteint.\n\nÉlément de surprise ludique qui entraîne l'escalade réactive et l'adaptabilité. Super pour les enfants et les groupes."
+  }
+]

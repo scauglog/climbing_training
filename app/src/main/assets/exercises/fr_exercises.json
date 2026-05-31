@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fr_quatre_par_quatre_bloc",
+    "name": "4x4 Blocs",
+    "targetAudience": ["adult"],
+    "energySystems": ["strength_endurance"],
+    "disciplines": ["boulder"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choisissez 4 blocs qui prennent chacun environ 10 à 15 mouvements. Enchaînez les 4 sans repos, puis récupérez 3 à 4 minutes. Répétez 4 séries.\n\nL'objectif est de maintenir la qualité de mouvement malgré la pompe. Choisissez des blocs légèrement en dessous de votre niveau maxi pour pouvoir les finir en état de fatigue."
+  },
+  {
+    "id": "fr_pieds_silencieux",
+    "name": "Pieds Silencieux",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Grimpez une voie ou un bloc en essayant de ne faire aucun bruit quand vos pieds touchent les prises. Un raclement ou un claquement trahit un placement imprécis.\n\nCet exercice entraîne à poser les pieds de manière délibérée et à regarder chaque appui avant d'y monter. Efficace sur tous les angles et à tous les niveaux. Commencez sur du terrain plus facile que votre niveau maxi."
+  },
+  {
+    "id": "fr_traversee_bras_tendus",
+    "name": "Traversée Bras Tendus",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["boulder"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement"],
+    "description": "Trouvez une longue traversée près du sol. Grimpez en gardant les bras aussi tendus que possible — ne pliez jamais le coude au-delà de 150°.\n\nCela vous force à utiliser le squelette plutôt que les muscles pour rester sur le mur, et enseigne le bon positionnement du corps ainsi que le transfert de poids. Traversez dans les deux sens pendant 5 à 10 minutes avec peu de repos."
+  },
+  {
+    "id": "fr_suspension_max",
+    "name": "Suspension Maximale",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder", "lead"],
+    "level": "advanced",
+    "techniqueFocus": ["handwork"],
+    "description": "Sur un panneau à doigts (fingerboard), suspendez-vous sur une réglette (typiquement 18–20 mm) avec un poids maximal ajouté pendant exactement 10 secondes. Repos de 3 minutes entre les séries. Effectuez 3 à 5 séries.\n\nUtilisez la prise demi-arquée ou arquée à deux mains. La charge doit être assez lourde pour que 10 secondes soit proche de votre limite. Notez le poids ajouté pour suivre vos progrès.\n\nNécessite un bon échauffement. Déconseillé aux débutants ou en cas de blessure aux doigts."
+  },
+  {
+    "id": "fr_echelle_de_pieds",
+    "name": "Échelle de Pieds",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork"],
+    "description": "Installez ou trouvez une suite de petits appuis disposés en échelle sur un dalle ou un mur vertical. Montez en utilisant uniquement les appuis désignés, en plaçant la pointe de la chaussure avec précision.\n\nIdéal pour l'échauffement et pour développer la confiance dans les pieds. Les enfants peuvent en faire un jeu chronométré. Répétez 5 à 10 fois."
+  },
+  {
+    "id": "fr_exercice_1_2_3",
+    "name": "Exercice 1-2-3",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope", "lead"],
+    "level": "beginner",
+    "techniqueFocus": ["body_movement", "footwork"],
+    "description": "Avant chaque mouvement, marquez une pause et comptez : 1 – regardez l'appui pied suivant, 2 – posez le pied, 3 – poussez sur les jambes et attrapez la prise suivante.\n\nCela ralentit le rythme et ancre l'habitude de regarder les pieds avant de les poser. Fonctionne sur tout type de terrain. Particulièrement efficace pour les débutants qui ont tendance à se précipiter. Grimpez 5 à 8 voies ou blocs avec cette méthode."
+  },
+  {
+    "id": "fr_campus_ladder",
+    "name": "Campusing en Échelle",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength", "strength_endurance"],
+    "disciplines": ["boulder", "lead"],
+    "level": "expert",
+    "techniqueFocus": ["handwork"],
+    "description": "Sur le campus board (sans les pieds), montez et descendez une séquence de barreaux en alternant les mains : main droite barreau 1 → 2 → 3, etc., puis redescendez.\n\nExercice de force de contact à haute intensité. Échauffez-vous soigneusement. À éviter si vous avez une douleur aux doigts ou aux coudes. Les débutants et intermédiaires ne doivent pas faire de campus. 3 à 5 séries avec 3 à 5 minutes de repos."
+  },
+  {
+    "id": "fr_dalle_sans_mains",
+    "name": "Dalle Sans les Mains",
+    "targetAudience": ["child", "adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "beginner",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Sur une dalle (moins de vertical), trouvez des enchaînements que vous pouvez grimper sans utiliser les mains du tout. Gardez les bras écartés pour l'équilibre uniquement.\n\nForce à s'appuyer entièrement sur la technique des pieds et le placement du bassin. Les enfants adorent ce défi. Les adultes progressent vers des pentes de plus en plus verticales. Pratiquez sur des passages que vous pouvez désescalader en sécurité."
+  },
+  {
+    "id": "fr_verrou_et_touche",
+    "name": "Verrou et Toucher",
+    "targetAudience": ["adult"],
+    "energySystems": ["pure_strength"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["handwork", "body_movement"],
+    "description": "Tirez sur une prise et bloquez à 90°, 120° et en verrou complet. À chaque position, lâchez une main et touchez une prise cible au-dessus, puis ramenez-la avant de continuer.\n\nDéveloppe la force positionnelle nécessaire pour les mouvements longs sur le dévers. Effectuez 5 touches à chaque angle, bras droit et gauche. 3 séries par bras avec 2 minutes de repos."
+  },
+  {
+    "id": "fr_lecture_de_voie",
+    "name": "Lecture de Voie à Vue",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["lead", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choisissez une voie que vous n'avez jamais vue. Passez 3 à 5 minutes au sol à l'analyser de bas en haut : identifiez les repos, les passages clés, les positions de dégaine (en difficulté) et les prises de pied importantes.\n\nGrimpez ensuite en essayant d'exécuter le plan établi au sol. Après la voie, analysez ce qui correspondait à votre plan et ce qui vous a surpris. Développe la lecture, essentielle pour l'escalade en falaise et en compétition."
+  },
+  {
+    "id": "fr_grimpe_yeux_fermes",
+    "name": "Grimpe Yeux Fermés",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance"],
+    "disciplines": ["boulder", "top_rope"],
+    "level": "intermediate",
+    "techniqueFocus": ["footwork", "body_movement"],
+    "description": "Grimpez un bloc familier ou une courte voie les yeux fermés tout au long de la montée. Un pareur doit être présent et seuls des blocs bas près du sol doivent être utilisés.\n\nCet exercice force à s'appuyer sur la proprioception et à sentir les prises plutôt que de les voir. Il révèle à quel point on dépend de la vision et développe la sensibilité des pieds et des mains. Répétez 3 à 5 fois."
+  },
+  {
+    "id": "fr_series_endurance",
+    "name": "Séries d'Endurance",
+    "targetAudience": ["adult"],
+    "energySystems": ["endurance", "stamina"],
+    "disciplines": ["top_rope", "lead"],
+    "level": "intermediate",
+    "techniqueFocus": ["other"],
+    "description": "Choisissez une voie 2 à 4 degrés en dessous de votre niveau maxi. Grimpez-la à répétition pendant 20 à 40 minutes au total, en ne vous reposant qu'en haut le temps de redescendre et de repartir (environ 1 à 2 minutes).\n\nL'objectif est le temps passé sur le mur. Concentrez-vous sur un mouvement détendu et efficace plutôt que sur la vitesse. Notez le nombre de longueurs par séance et cherchez à progresser semaine après semaine."
+  }
+]

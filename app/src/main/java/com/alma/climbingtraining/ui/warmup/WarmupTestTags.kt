@@ -1,0 +1,16 @@
+package com.alma.climbingtraining.ui.warmup
+
+const val TAG_WARMUP_DURATION_DISPLAY = "warmup_duration_display"
+const val TAG_WARMUP_DECREMENT_BUTTON = "warmup_decrement_button"
+const val TAG_WARMUP_INCREMENT_BUTTON = "warmup_increment_button"
+const val TAG_WARMUP_ROUNDS_SUMMARY = "warmup_rounds_summary"
+const val TAG_WARMUP_START_BUTTON = "warmup_start_button"
+const val TAG_WARMUP_INTERVAL_LABEL = "warmup_interval_label"
+const val TAG_WARMUP_COUNTDOWN = "warmup_countdown"
+const val TAG_WARMUP_EXERCISE_NAME = "warmup_exercise_name"
+const val TAG_WARMUP_BODY_PART_CHIP = "warmup_body_part_chip"
+const val TAG_WARMUP_PAUSE_RESUME_BUTTON = "warmup_pause_resume_button"
+const val TAG_WARMUP_STOP_BUTTON = "warmup_stop_button"
+const val TAG_WARMUP_DONE_MESSAGE = "warmup_done_message"
+const val TAG_WARMUP_DONE_BODY_PARTS = "warmup_done_body_parts"
+const val TAG_WARMUP_BACK_TO_SETUP_BUTTON = "warmup_back_to_setup_button"

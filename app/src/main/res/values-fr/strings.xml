@@ -32,4 +32,89 @@
     <string name="settings_language_label">Langue</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_french">Français</string>
+
+    <!-- Tool: Random Exercise -->
+    <string name="tool_random_exercise_name">Exercice Aléatoire</string>
+    <string name="tool_random_exercise_description">Tirez un exercice d\'entraînement escalade au hasard</string>
+
+    <!-- Random Exercise – General -->
+    <string name="random_exercise_title">Exercice Aléatoire</string>
+    <string name="random_exercise_result_title">Votre Exercice</string>
+    <string name="random_exercise_draw_button">Tirer un exercice</string>
+    <string name="random_exercise_draw_again_button">Tirer à nouveau</string>
+    <string name="random_exercise_change_filters_button">Changer les filtres</string>
+    <string name="random_exercise_no_match">Aucun exercice ne correspond à ces filtres. Essayez d\'en retirer quelques-uns.</string>
+
+    <!-- Random Exercise – Audience filter -->
+    <string name="random_exercise_filter_audience_title">Public cible</string>
+    <string name="random_exercise_audience_child">Enfant</string>
+    <string name="random_exercise_audience_adult">Adulte</string>
+
+    <!-- Random Exercise – Energy system filter -->
+    <string name="random_exercise_filter_energy_title">Système énergétique</string>
+    <string name="random_exercise_energy_pure_strength">Force Pure</string>
+    <string name="random_exercise_energy_pure_strength_desc">Efforts courts et intenses nécessitant une force maximale.</string>
+    <string name="random_exercise_energy_strength_endurance">Force-Endurance</string>
+    <string name="random_exercise_energy_strength_endurance_desc">Capacité à soutenir des mouvements difficiles pendant 10 à 60 secondes.</string>
+    <string name="random_exercise_energy_endurance">Endurance</string>
+    <string name="random_exercise_energy_endurance_desc">Capacité à grimper pendant des minutes ou des heures à un rythme modéré.</string>
+    <string name="random_exercise_energy_stamina">Récupération</string>
+    <string name="random_exercise_energy_stamina_desc">Capacité à récupérer entre les efforts intenses au cours d\'une séance.</string>
+
+    <!-- Random Exercise – Discipline filter -->
+    <string name="random_exercise_filter_discipline_title">Discipline</string>
+    <string name="random_exercise_discipline_boulder">Bloc</string>
+    <string name="random_exercise_discipline_lead">Escalade de difficulté</string>
+    <string name="random_exercise_discipline_top_rope">Top Rope</string>
+
+    <!-- Random Exercise – Level filter -->
+    <string name="random_exercise_filter_level_title">Niveau</string>
+    <string name="random_exercise_level_beginner">Débutant</string>
+    <string name="random_exercise_level_intermediate">Intermédiaire</string>
+    <string name="random_exercise_level_advanced">Avancé</string>
+    <string name="random_exercise_level_expert">Expert</string>
+
+    <!-- Random Exercise – Technique focus filter -->
+    <string name="random_exercise_filter_technique_title">Focus technique</string>
+    <string name="random_exercise_technique_footwork">Technique des pieds</string>
+    <string name="random_exercise_technique_handwork">Technique des mains</string>
+    <string name="random_exercise_technique_body_movement">Mouvement du corps</string>
+    <string name="random_exercise_technique_other">Autre</string>
+
+    <!-- Tool: Warmup Timer -->
+    <string name="tool_warmup_name">Minuteur d\'échauffement</string>
+    <string name="tool_warmup_description">Échauffement escalade style Tabata avec exercices guidés</string>
+
+    <!-- Warmup – Setup -->
+    <string name="warmup_title">Minuteur d\'échauffement</string>
+    <string name="warmup_duration_label">Durée</string>
+    <string name="warmup_duration_value">%1$d min</string>
+    <string name="warmup_rounds_summary_full">%1$d rounds · corps entier couvert</string>
+    <string name="warmup_rounds_summary_partial">%1$d rounds · échauffement partiel (%2$d/%3$d parties du corps)</string>
+    <string name="warmup_start_button">Démarrer</string>
+
+    <!-- Warmup – Timer -->
+    <string name="warmup_work">EFFORT</string>
+    <string name="warmup_rest">REPOS</string>
+    <string name="warmup_remaining">%1$d:%2$02d restant</string>
+    <string name="warmup_get_ready">Prêt… %1$s</string>
+    <string name="warmup_pause_button">Pause</string>
+    <string name="warmup_resume_button">Reprendre</string>
+    <string name="warmup_stop_button">Arrêter</string>
+
+    <!-- Warmup – Done -->
+    <string name="warmup_done_title">Échauffement terminé !</string>
+    <string name="warmup_done_duration">Vous avez complété %1$d minutes d\'échauffement.</string>
+    <string name="warmup_done_body_parts_label">Parties du corps travaillées :</string>
+    <string name="warmup_back_to_setup_button">Retour aux réglages</string>
+
+    <!-- Warmup – Body part labels -->
+    <string name="warmup_body_part_wrists">Poignets</string>
+    <string name="warmup_body_part_shoulders">Épaules</string>
+    <string name="warmup_body_part_core">Abdominaux</string>
+    <string name="warmup_body_part_legs">Jambes</string>
+    <string name="warmup_body_part_hips">Hanches</string>
+    <string name="warmup_body_part_back">Dos</string>
+    <string name="warmup_body_part_cardio">Cardio</string>
+    <string name="warmup_body_part_full_body">Corps entier</string>
 </resources>

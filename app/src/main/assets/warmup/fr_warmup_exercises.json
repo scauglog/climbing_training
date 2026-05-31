@@ -1,0 +1,146 @@
+[
+  {
+    "id": "wrist_rotation",
+    "name": "Rotation des poignets",
+    "description": "Bras tendus en avant, poings fermés. Tournez les deux poignets en cercles complets — vers l'intérieur puis vers l'extérieur.",
+    "bodyPart": "wrists"
+  },
+  {
+    "id": "wrist_flexion",
+    "name": "Flexion-extension des poignets",
+    "description": "Joignez les paumes devant la poitrine, puis inversez (dos des mains ensemble) et poussez doucement.",
+    "bodyPart": "wrists"
+  },
+  {
+    "id": "wrist_figure_eight",
+    "name": "Huit des poignets",
+    "description": "Entrelacez les doigts et tracez des huit continus avec les deux mains. Gardez les poignets souples.",
+    "bodyPart": "wrists"
+  },
+  {
+    "id": "arm_circle",
+    "name": "Cercles de bras",
+    "description": "Bras tendus sur les côtés. Tracez de grands cercles vers l'avant pendant 10 s, puis vers l'arrière.",
+    "bodyPart": "shoulders"
+  },
+  {
+    "id": "shoulder_roll",
+    "name": "Roulement d'épaules",
+    "description": "Faites de grands cercles avec les deux épaules vers l'avant pendant 10 s, puis vers l'arrière.",
+    "bodyPart": "shoulders"
+  },
+  {
+    "id": "cross_body_arm_swing",
+    "name": "Balancement croisé des bras",
+    "description": "Balancez les deux bras simultanément devant la poitrine puis ouvrez-les largement. Augmentez l'amplitude à chaque répétition.",
+    "bodyPart": "shoulders"
+  },
+  {
+    "id": "plank",
+    "name": "Planche",
+    "description": "Position de planche sur les avant-bras. Gainez le ventre, dos plat, tenez la position.",
+    "bodyPart": "core"
+  },
+  {
+    "id": "mountain_climber",
+    "name": "Grimpeur de montagne",
+    "description": "En planche haute, ramenez alternativement chaque genou vers la poitrine le plus vite possible.",
+    "bodyPart": "core"
+  },
+  {
+    "id": "dead_bug",
+    "name": "Cafard mort",
+    "description": "Sur le dos, bras tendus vers le plafond, genoux à 90°. Descendez lentement bras et jambe opposés vers le sol, puis remontez.",
+    "bodyPart": "core"
+  },
+  {
+    "id": "squat",
+    "name": "Squat",
+    "description": "Pieds écartés à la largeur des épaules, descendez jusqu'à ce que les cuisses soient parallèles au sol, remontez en poussant sur les talons.",
+    "bodyPart": "legs"
+  },
+  {
+    "id": "lunge",
+    "name": "Fente",
+    "description": "Faites un grand pas en avant, abaissez le genou arrière vers le sol, revenez en position initiale. Alternez les jambes.",
+    "bodyPart": "legs"
+  },
+  {
+    "id": "lateral_shuffle",
+    "name": "Déplacement latéral",
+    "description": "Stance large, restez bas. Déplacez-vous 3 pas à gauche puis 3 pas à droite en position athlétique.",
+    "bodyPart": "legs"
+  },
+  {
+    "id": "hip_circle",
+    "name": "Cercles de hanches",
+    "description": "Pieds écartés à la largeur des épaules, mains sur les hanches. Tracez de grands cercles avec les hanches en alternant le sens.",
+    "bodyPart": "hips"
+  },
+  {
+    "id": "hip_flexor_stretch",
+    "name": "Étirement fléchisseur de hanche",
+    "description": "Faites une fente avant, posez le genou arrière au sol et poussez doucement les hanches vers l'avant. Maintenez 10 s de chaque côté.",
+    "bodyPart": "hips"
+  },
+  {
+    "id": "leg_swing",
+    "name": "Balancement de jambe",
+    "description": "Tenez un mur pour l'équilibre. Balancez une jambe d'avant en arrière en arc contrôlé, puis changez de côté.",
+    "bodyPart": "hips"
+  },
+  {
+    "id": "cat_cow",
+    "name": "Chat-Vache",
+    "description": "À quatre pattes, alternez entre arrondir le dos vers le plafond (chat) et laisser le ventre descendre vers le sol (vache).",
+    "bodyPart": "back"
+  },
+  {
+    "id": "thoracic_rotation",
+    "name": "Rotation thoracique",
+    "description": "Assis en tailleur, mains derrière la tête. Faites pivoter le haut du corps à gauche puis à droite en gardant les hanches immobiles.",
+    "bodyPart": "back"
+  },
+  {
+    "id": "standing_side_bend",
+    "name": "Flexion latérale debout",
+    "description": "Pieds écartés à la largeur des hanches, levez un bras au-dessus de la tête et penchez-vous du côté opposé. Maintenez 5 s, puis changez.",
+    "bodyPart": "back"
+  },
+  {
+    "id": "jumping_jack",
+    "name": "Jumping Jack",
+    "description": "Pieds joints, bras le long du corps. Sautez en écartant les pieds tout en levant les bras au-dessus de la tête, puis revenez.",
+    "bodyPart": "cardio"
+  },
+  {
+    "id": "high_knee",
+    "name": "Genoux hauts",
+    "description": "Courez sur place en montant les genoux le plus haut possible. Balancez les bras en opposition.",
+    "bodyPart": "cardio"
+  },
+  {
+    "id": "butt_kick",
+    "name": "Talons-fesses",
+    "description": "Courez sur place en ramenant les talons vers les fesses à chaque pas. Gardez un rythme rapide.",
+    "bodyPart": "cardio"
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "description": "Depuis debout : accroupissez-vous, sautez les pieds en planche, faites une pompe, ramenez les pieds, sautez avec les bras au-dessus de la tête.",
+    "bodyPart": "full_body"
+  },
+  {
+    "id": "bear_crawl",
+    "name": "Marche de l'ours",
+    "description": "À quatre pattes avec les genoux à 2 cm du sol. Avancez 3 pas puis reculez 3 pas.",
+    "bodyPart": "full_body"
+  },
+  {
+    "id": "inchworm",
+    "name": "Ver de terre",
+    "description": "Debout, penchez-vous pour poser les mains au sol. Avancez les mains jusqu'en planche, puis ramenez-les vers les pieds et relevez-vous.",
+    "bodyPart": "full_body"
+  }
+]

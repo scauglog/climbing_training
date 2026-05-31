@@ -1,21 +1,25 @@
 package com.alma.climbingtraining.ui.flyingloto
 
+import android.app.Application
 import androidx.compose.animation.*
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.PersonAdd
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.style.TextAlign
@@ -28,7 +32,9 @@ import com.alma.climbingtraining.R
 @Composable
 fun FlyingLotoScreen(
     onNavigateBack: () -> Unit,
-    viewModel: FlyingLotoViewModel = viewModel()
+    viewModel: FlyingLotoViewModel = viewModel(
+        factory = FlyingLotoViewModel.Factory(LocalContext.current.applicationContext as Application)
+    )
 ) {
     val state by viewModel.state.collectAsState()
 
@@ -39,7 +45,7 @@ fun FlyingLotoScreen(
                 navigationIcon = {
                     if (state.phase != GamePhase.PLAYING) {
                         IconButton(onClick = onNavigateBack) {
-                            Icon(Icons.Default.ArrowBack, contentDescription = null)
+                            Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null)
                         }
                     }
                 },
@@ -96,7 +102,9 @@ fun PlayerEntryContent(
             OutlinedTextField(
                 value = inputName,
                 onValueChange = { inputName = it },
-                modifier = Modifier.weight(1f),
+                modifier = Modifier
+                    .weight(1f)
+                    .testTag(TAG_PLAYER_NAME_INPUT),
                 label = { Text(stringResource(R.string.flying_loto_player_name_label)) },
                 singleLine = true,
                 keyboardOptions = KeyboardOptions(imeAction = ImeAction.Done),
@@ -116,7 +124,8 @@ fun PlayerEntryContent(
                         onAddPlayer(inputName)
                         inputName = ""
                     }
-                }
+                },
+                modifier = Modifier.testTag(TAG_ADD_PLAYER_BUTTON)
             ) {
                 Icon(
                     Icons.Default.PersonAdd,
@@ -167,7 +176,9 @@ fun PlayerEntryContent(
 
         Button(
             onClick = onValidate,
-            modifier = Modifier.fillMaxWidth(),
+            modifier = Modifier
+                .fillMaxWidth()
+                .testTag(TAG_VALIDATE_BUTTON),
             enabled = playerNames.isNotEmpty()
         ) {
             Text(stringResource(R.string.flying_loto_validate))
@@ -195,7 +206,7 @@ fun ConfigurationContent(
             modifier = Modifier.weight(1f),
             verticalArrangement = Arrangement.spacedBy(4.dp)
         ) {
-            items(players, key = { it.name }) { player ->
+            itemsIndexed(players, key = { _, player -> player.name }) { index, player ->
                 Card(
                     modifier = Modifier.fillMaxWidth(),
                     colors = CardDefaults.cardColors(
@@ -209,11 +220,16 @@ fun ConfigurationContent(
                         horizontalArrangement = Arrangement.SpaceBetween,
                         verticalAlignment = Alignment.CenterVertically
                     ) {
-                        Text(text = player.name, style = MaterialTheme.typography.bodyLarge)
+                        Text(
+                            text = player.name,
+                            style = MaterialTheme.typography.bodyLarge,
+                            modifier = Modifier.testTag("$TAG_ASSIGNMENT_NAME_PREFIX$index")
+                        )
                         Text(
                             text = "#${player.assignedNumber}",
                             style = MaterialTheme.typography.titleMedium,
-                            color = MaterialTheme.colorScheme.primary
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = Modifier.testTag("$TAG_ASSIGNMENT_NUMBER_PREFIX$index")
                         )
                     }
                 }
@@ -224,7 +240,9 @@ fun ConfigurationContent(
 
         Button(
             onClick = onStartGame,
-            modifier = Modifier.fillMaxWidth(),
+            modifier = Modifier
+                .fillMaxWidth()
+                .testTag(TAG_START_GAME_BUTTON),
             colors = ButtonDefaults.buttonColors(
                 containerColor = MaterialTheme.colorScheme.primary
             )
@@ -262,6 +280,7 @@ fun GameContent(
                 text = number?.toString() ?: stringResource(R.string.flying_loto_no_match),
                 style = MaterialTheme.typography.displayLarge.copy(fontSize = 120.sp),
                 textAlign = TextAlign.Center,
+                modifier = Modifier.testTag(TAG_CURRENT_NUMBER_TEXT),
                 color = if (currentPlayerName != null) {
                     MaterialTheme.colorScheme.primary
                 } else {
@@ -284,6 +303,7 @@ fun GameContent(
                 text = name ?: stringResource(R.string.flying_loto_no_match),
                 style = MaterialTheme.typography.headlineLarge,
                 textAlign = TextAlign.Center,
+                modifier = Modifier.testTag(TAG_CURRENT_PLAYER_NAME_TEXT),
                 color = if (name != null) {
                     MaterialTheme.colorScheme.primary
                 } else {
@@ -310,7 +330,9 @@ fun GameContent(
 
             Button(
                 onClick = onNextNumber,
-                modifier = Modifier.weight(1f)
+                modifier = Modifier
+                    .weight(1f)
+                    .testTag(TAG_NEXT_NUMBER_BUTTON)
             ) {
                 Text(stringResource(R.string.flying_loto_next_number), fontSize = 18.sp)
             }
