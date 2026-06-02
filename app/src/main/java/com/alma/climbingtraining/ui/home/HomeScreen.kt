@@ -7,6 +7,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Casino
 import androidx.compose.material.icons.filled.FitnessCenter
+import androidx.compose.material.icons.filled.Group
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Timer
 import androidx.compose.material3.*
@@ -32,7 +33,8 @@ fun HomeScreen(
     onNavigateToFlyingLoto: () -> Unit,
     onNavigateToRandomExercise: () -> Unit,
     onNavigateToWarmup: () -> Unit,
-    onNavigateToSettings: () -> Unit
+    onNavigateToSettings: () -> Unit,
+    onNavigateToRandomPartner: () -> Unit
 ) {
     val tools = remember {
         listOf(
@@ -50,6 +52,11 @@ fun HomeScreen(
                 nameRes = R.string.tool_warmup_name,
                 descriptionRes = R.string.tool_warmup_description,
                 icon = Icons.Default.Timer
+            ),
+            Tool(
+                nameRes = R.string.tool_random_partner_name,
+                descriptionRes = R.string.tool_random_partner_description,
+                icon = Icons.Default.Group
             )
         )
     }
@@ -87,6 +94,7 @@ fun HomeScreen(
                         R.string.tool_flying_loto_name -> Modifier.testTag(TAG_TOOL_CARD_FLYING_LOTO)
                         R.string.tool_random_exercise_name -> Modifier.testTag(TAG_TOOL_CARD_RANDOM_EXERCISE)
                         R.string.tool_warmup_name -> Modifier.testTag(TAG_TOOL_CARD_WARMUP)
+                        R.string.tool_random_partner_name -> Modifier.testTag(TAG_TOOL_CARD_RANDOM_PARTNER)
                         else -> Modifier
                     },
                     onClick = {
@@ -94,6 +102,7 @@ fun HomeScreen(
                             R.string.tool_flying_loto_name -> onNavigateToFlyingLoto()
                             R.string.tool_random_exercise_name -> onNavigateToRandomExercise()
                             R.string.tool_warmup_name -> onNavigateToWarmup()
+                            R.string.tool_random_partner_name -> onNavigateToRandomPartner()
                         }
                     }
                 )

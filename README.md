@@ -2,11 +2,6 @@
 
 An Android app hosting tools for climbing exercise groups.
 
-## Tools
-
-### Flying Loto
-A randomised number game for climbing sessions. The game master enters the names of all participants — each is secretly assigned a unique number between 1 and 30. During the game, the master taps **Next Number** to reveal a random draw. When a drawn number matches a player's assignment, their name lights up on screen. Tap **Stop** at any time to end the round; player names are saved for the next session.
-
 ---
 
 ## Requirements

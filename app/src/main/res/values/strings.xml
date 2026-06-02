@@ -32,6 +32,17 @@
     <string name="settings_language_label">Language</string>
     <string name="settings_language_english">English</string>
     <string name="settings_language_french">Français</string>
+    <string name="settings_exercise_library_title">Exercise Library</string>
+    <string name="settings_warmup_library_title">Warmup Library</string>
+    <string name="settings_library_builtin">Built-in library</string>
+    <string name="settings_library_custom">Custom library</string>
+    <string name="settings_library_export">Export</string>
+    <string name="settings_library_import">Import</string>
+    <string name="settings_library_reset">Reset</string>
+    <string name="settings_import_error_title">Import Failed</string>
+    <string name="settings_import_success_title">Import Successful</string>
+    <string name="settings_import_read_error">Could not read the selected file.</string>
+    <string name="settings_dialog_ok">OK</string>
 
     <!-- Tool: Random Exercise -->
     <string name="tool_random_exercise_name">Random Exercise</string>
@@ -117,4 +128,31 @@
     <string name="warmup_body_part_back">Back</string>
     <string name="warmup_body_part_cardio">Cardio</string>
     <string name="warmup_body_part_full_body">Full Body</string>
+
+    <!-- Tool: Random Partner -->
+    <string name="tool_random_partner_name">Random Partner</string>
+    <string name="tool_random_partner_description">Pair climbers by weight for training exercises</string>
+
+    <!-- Random Partner – Entry -->
+    <string name="random_partner_title">Random Partner</string>
+    <string name="random_partner_participant_count">%1$d participants</string>
+    <string name="random_partner_add_participant">Add Participant</string>
+    <string name="random_partner_remove_participant_content_description">Remove %1$s</string>
+    <string name="random_partner_tolerance_label">Weight tolerance</string>
+    <string name="random_partner_find_partners">Find Partners</string>
+
+    <!-- Random Partner – Private input -->
+    <string name="random_partner_private_input_instruction">Enter your information. Your weight will not be shown to others.</string>
+    <string name="random_partner_name_label">Name</string>
+    <string name="random_partner_weight_label">Weight</string>
+    <string name="random_partner_confirm">Confirm</string>
+    <string name="random_partner_cancel">Cancel</string>
+
+    <!-- Random Partner – Result -->
+    <string name="random_partner_result_title">Pairs</string>
+    <string name="random_partner_weight_delta">Δ %1$d kg</string>
+    <string name="random_partner_tolerance_exceeded">Tolerance exceeded</string>
+    <string name="random_partner_trio_label">Trio</string>
+    <string name="random_partner_try_again">Try Again</string>
+    <string name="random_partner_restart">Restart</string>
 </resources>

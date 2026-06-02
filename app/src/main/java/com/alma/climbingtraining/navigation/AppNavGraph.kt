@@ -7,6 +7,7 @@ import androidx.navigation.compose.rememberNavController
 import com.alma.climbingtraining.ui.flyingloto.FlyingLotoScreen
 import com.alma.climbingtraining.ui.home.HomeScreen
 import com.alma.climbingtraining.ui.randomexercise.RandomExerciseScreen
+import com.alma.climbingtraining.ui.randompartner.RandomPartnerScreen
 import com.alma.climbingtraining.ui.settings.SettingsScreen
 import com.alma.climbingtraining.ui.warmup.WarmupScreen
 
@@ -16,6 +17,7 @@ object Routes {
     const val RANDOM_EXERCISE = "random_exercise"
     const val WARMUP = "warmup"
     const val SETTINGS = "settings"
+    const val RANDOM_PARTNER = "random_partner"
 }
 
 @Composable
@@ -36,6 +38,9 @@ fun AppNavGraph() {
                 },
                 onNavigateToSettings = {
                     navController.navigate(Routes.SETTINGS) { restoreState = true }
+                },
+                onNavigateToRandomPartner = {
+                    navController.navigate(Routes.RANDOM_PARTNER) { restoreState = true }
                 }
             )
         }
@@ -50,6 +55,9 @@ fun AppNavGraph() {
         }
         composable(Routes.SETTINGS) {
             SettingsScreen(onNavigateBack = { navController.popBackStack() })
+        }
+        composable(Routes.RANDOM_PARTNER) {
+            RandomPartnerScreen(onNavigateBack = { navController.popBackStack() })
         }
     }
 }
