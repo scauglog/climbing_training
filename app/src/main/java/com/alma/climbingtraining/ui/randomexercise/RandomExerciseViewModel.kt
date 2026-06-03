@@ -15,12 +15,10 @@ import com.alma.climbingtraining.model.ExerciseLevel
 import com.alma.climbingtraining.model.TargetAudience
 import com.alma.climbingtraining.model.TechniqueFocus
 import com.alma.climbingtraining.model.matchesFilter
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
-import kotlinx.coroutines.launch
 
 enum class RandomExercisePhase { FILTER, RESULT }
 
@@ -41,9 +39,7 @@ class RandomExerciseViewModel(
     val state: StateFlow<RandomExerciseState> = _state.asStateFlow()
 
     init {
-        viewModelScope.launch(Dispatchers.IO) {
-            allExercises = dataSource.loadExercises()
-        }
+        allExercises = dataSource.loadExercises()
     }
 
     fun toggleTargetAudience(value: TargetAudience) = updateFilter { f ->
